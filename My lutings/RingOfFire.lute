@@ -1,0 +1,25 @@
+//#lute 428
+
+//Trumpet 1
+//ihs3v8r2A{b2>c2d'2drddrddre2c2d12r4<brbbrbbr>c2<a2b10}2r22>drddrddre2c2d12r20<brbbrbbr>c2<a2b12r20>drddrddre2c2d12
+//Trumpet 2
+//|ihs3v8r2A{g2a2b'2brbbrbbr>c2<a2b12r4grg2rggra2f2g10}2r22brbbrbbr>c2<a2b12r20grggrggra2e2g12r20brbbrbbr>c2<a2b12
+
+//Vocals
+//|itY{r120d6r4dde2c2d6r19<bb2b6r4b2>c2<a2b6r22>d6r4dde2c2d6r22<brbbrbbra2f2g8r8t2
+//Chorus
+//>d4g'4a6ag4gg1ed5d1d1d4g'4a6ag4gg1ed4d1d<g4b4>d8r<b>c<ab3>d7<gag'g8}
+//|iev5<Y
+
+//Bass Guitar
+//|ibv7Z{s7o1t4r8g>dc<g>dgd<gg>d2<a2g>d<b>d<b>dc<g>d<g>d<gg>d2<a2g>d<g>d<g>d<g>d<gg>c<g>d<g>d<g>d<g>d2<a2g>dd<g>d<g>d<g>d<g>d<g>dc<g>d<g>d<g>dd2<a2g>d<g2g2g'2e2
+//Chorus
+//>d<a>d<a>cc<g>c2d'2d<a>d<a>cc<g>cd'<g>d<g>d<g>d2<a2g>d<g>d2<a2}
+//|icv1Z
+
+//Drums
+//|idv2r8t2o0(a>4a)o3cA{o0(a>3c)o3c}95
+
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 428 ihQ{s3v8r2}V{b2>N{c2}}M{d'2}A{drddrddre2Nd12}L{r4}<X{U{brbbrbbr}>N<T{a2}}b10VMAL<Xb10S{r22}>AR{r20}<W{Xb12}R>A|ihQA{g2Tb'2WLB{gr}g2rgBTf2g10}2SWRBgBgBTe2g12RW|itY{r120B{d6Ldde2Nd6}r19<bb2b6LV<Tb6S>BS<UTf2g8r8t2>A{d4g'4a6ag4gg1e}d5d1d1Ad4d1P{d<}g4b4>d8r<b>O{c<}ab3>d7<gag'g8}|iev5<Y|ibv7Z{s7o1t4r8D{g>d}ODgPgB{g>d2<T}A{D<}b>Pb>dOA2gBA4gg>OA3BDPA4DOA2Dd2<TAg2g2g'2e2>C{Pa>Pa>cOg>}NMCcd'<A2BAB}|icv1Z|idv2r8t2o0(a>4a)A{B{o3co0(a>3c)}5}19o3c
+//Luting length: 447
