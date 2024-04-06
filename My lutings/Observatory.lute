@@ -1,0 +1,14 @@
+//#lute 360
+
+//ivr48A{g'a>g'3d'e2d3<b'>d'2<b2>d2<e6>d2d'3<g>d2d'3<gb2f2b2a6g'a>g'3d'e2d3<b'b>da3da2g4g2g'3<a>g'2e3d'd12<}2
+//v3t2>adeae>d'<a6d6adeae>d'<a4>ed'6<adeae>d'<a6d6v5<b6>d'6v7d6e6vt1<A2
+//|ivr312v2g6v3a6v4b6>v5d'6<<v6A2
+
+//Lower Part
+//|ibZ{A{v1<d'2>arar<d2>ararv2<e2>arar}<g'2>ararAa6<v1B{<d2>(g'a)r(g'a)r<g'2>(g'b')r(g'b')r<g2>(gb)r(gb)r<g2>(gb)r(gb)r<a2>(gd')r(gd')r<a2>(gd')r(gd')r<d2>(fa')r(fa')r<d2>(g'a)r(g'a)r}4
+//>g12g'12e12d6d2e2g'2g12g'12e12<a12B4}
+//|ivZ
+
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 360 ivr48Y{B{g'a>g'3d'e2d3<b'}>d'2<b2>S{d2}<e6C{>Sd'3<g}2b2f2b2R{a6}Bb>da3da2g4g2g'3<a>T{g'2}e3d'd12<}2v3t2>A{adeae>d'<}Rd6Aa4>eQ{d'6}<ARd6v5<b6>Qv7d6e6vt1<Y2|ivr312v2g6v3Rv4b6>v5Q<<v6Y2|ibX{v1<d'2V{>arar}<SVv2<e2V}U{<TVXR<v1}Z{A{<S>E{(g'a)r}2}<T>F{(g'b')}rFC{r<g2>(gb)r(gb)}2B{r<a2>H{(gd')}rH}2r<S>G{(fa')r}2A}4W{>D{g12g'12e12}d6Se2TD<a12Z4}|ivXUZ4W
+//Luting length: 356

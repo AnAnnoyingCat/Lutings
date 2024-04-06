@@ -1,0 +1,25 @@
+//#lute 560
+
+//Ocarina
+//igY{t2r16>fab4fab4fab>ed4<b>c<bge8rdege12
+//fab4fab4fab>ed4<b>ce<bg8rbgde12
+//r32fga4b>cd4efg12r32<
+//fegfba>c<b>dcedfee1f1r1d1e16}
+
+
+//Accompanying voice
+//|ibv8Z{s4t2r144def4gab4>c<be12def4gab4>cde12<def4gab4>c<be12dcedgfagba>c<b>dce1f1r1d1<b16}
+
+//Bass
+//|ibv3r16<A{f1r1(ac)r(ac)r(ac)rf1r1(ac)r(ac)r(ac)rf1r1(ac)r(ac)r(ac)rf1r1(ac)r(ac)r(ac)r(eg)1r1(gc)r(gc)r(gc)r(eg)1r1(gc)r(gc)r(gc)r(eg)1r1(gc)r(gc)r(gc)r(eg)1r1(gc)r(gc)r(gc)r}2
+//t1B{drardrar<gr>dr<gr>drcrgrcrgr<ar>er<ar>er}3dr(fa)r(fa)r3dr(fa)r(fa)r3cr(gb)r(gb)r3cr(gb)r(gb)r3
+//er(ab)r3(ab)rer(ab)r3(ab)rer(a'b)r(a'b)r(a'b)r(a'b)r3e2
+
+//Percussion
+//Hi-Hat
+//|idv1c2ccc2ccc2c4c2A{c2ccc2c2}16B{c2ccc2cc}12C{c2ccc4}4B2c2c2c2c2c4c4
+//Drum
+
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 560 igt2r16>A{fV{ab4}fVfab>ed4W{<b}>c}Wge8rdegZ{e12}AeWg8rbgdZr32fga4b>cd4efg12r32<fegfY{ba>cW>dc}edfeX{e1f1r1d1}e16|ibv8s4t2r144A{def4gV>c}WZAdZ<AWZdcedgfagYX<b16|ibv3r16<A{D{f1r1I{(ac)}rIrI}rDrDrDC{r(eg)1r1J{(gc)}rJrJ}4r}2t1B{drardraK{r<gr>d}2rcrgrcrgL{r<ar>e}2r}3F{dM{r(fa)}2r3}2G{cN{r(gb)}2r3}2H{er(ab)r3(ab)r}2eE{r(a'b)}4r3e2|idv1A{E{c2}F{cc}E}FEc4B{EAEA}8EC{AFAF}6D{EFc4}4CE4c4c4
+//Luting length: 391

@@ -1,0 +1,25 @@
+//Bad Piggies - Ilmari Hakkola
+//Author: JustAnAnnoyingCat
+
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 620 
+ilv8U{(dg)16o5r32}Z{>c4c3<R{b'}>c2<RrW{a'}rgrRWgfV{e'r}Q{fr}g8b'4b'3Wg2QVQge'ce'grQC{e'4}d4}2Y{r2cX{de'}
+B{rcrf2VD{dr}cr<}b'3WgrWrb'4<f4A{r2XQDg2QVD}C2d8>r2cXBRWgWRrWrg4CADXDXDXDX9}v9T{gWgW}2vS{gab>cXfgZ2}
+|ibv4UZ2YT2v5S
+|ibv6o3(<gg)16C{crL{(e'g)r}<gr>L}4A{C2G{VM{(gb')r}<Rr>M}2<F{RrN{(>df)r}QN}2E{WrK{(>ce')r}VK}gI{r(bd)r}dI>}2<B{E2fH{r(a'c)r}cHfHcHF2}EgIdIBJ{(gg)r3O{(a'a')}r3}2
+D{(gg)rO}P{rD}3rv7DPv8Pr(aa)r(bb)r>A2
+//Luting length: 424
+
+
+
+//Handwritten version
+//#lute 620
+//Main voice
+//ilv8Z{(dg)16o5r32A{>c4c3<b'>c2<b'ra'rgrb'a'gfe'rfrg8b'4b'3a'g2fre'rfrge'ce'grfre'4d4}2r2cde'rcrf2e'rdrcr<b'3a'gra'rb'4<f4r2de'frdrg2fre'rdre'4e'4d8>r2cde'rcrf2e'rdrcr<b'a'ga'b'ra'rg4e'4
+//r2de'frdrg2fre'rdrB{drde'}4C{de'de'}4}v9ga'ga'ga'ga'vgab>cde'fgA2
+//|ibv4Zga'ga'ga'ga'v5gab>cde'fgA2
+
+//bass
+//|ibv6o3(<gg)16cr(e'g)r<gr>(e'g)rcr(e'g)r<gr>(e'g)rcr(e'g)r<gr>(e'g)rcr(e'g)r<gr>(e'g)rA{cr(e'g)r<gr>(e'g)rcr(e'g)r<gr>(e'g)re'r(gb')r<b'r>(gb')re'r(gb')r<b'r>(gb')r<b'r(>df)rfr(>df)rb'r(>df)rfr(>df)ra'r(>ce')re'r(>ce')rgr(bd)rdr(bd)r>}2
+//<B{a'r(>ce')re'r(>ce')ra'r(>ce')re'r(>ce')rfr(a'c)rcr(a'c)rfr(a'c)rcr(a'c)rb'r(>df)rfr(>df)rb'r(>df)rfr(>df)r}a'r(>ce')re'r(>ce')rgr(bd)rdr(bd)rB(gg)r3(a'a')r3(gg)r3(a'a')r3
+//(gg)r(a'a')r(gg)r(a'a')r(gg)r(a'a')r(gg)r(a'a')rv7(gg)r(a'a')r(gg)r(a'a')v8r(gg)r(a'a')r(aa)r(bb)r>A2

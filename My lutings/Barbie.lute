@@ -1,0 +1,45 @@
+//Barbie Girl
+//Author: JustAnAnnoyingCat
+
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 544 
+imt2r64A{D{a'}eD>W{d'}<a8X{g'}T{e'}XbC{a'4}Xer4eWB{g'4}d'4r4XeCBDeD>W<a6aXTXbCXer2WeWBd'4X3eCXe}V{r16}Ar10Y{eXD2eXCeXCaDBTeBTeBXDBe}
+|itt2r192eeW<b>ee<bb>r202Y
+|ibv5Z{t8C{D{(d'ea')(d'g'a)}<(be'g')(bea')}>D(eg'b)TA{CE{(a'd')}F{(ad')}(be)G{(be')}>}2VA2H{(d'ea')3}2(d'ea')4r4B{I{(d'e)}2<F2G2E2>}2}
+|ifv3Z
+|ibv5o2t8r64C{WX<b>eWX<b16>}2Vt4B{W2<X2bb}E{ee>Bbb>}BEd'3d'3d'2d'8A{D{Wd'2d'10}<Xg'2g'10bb2b10>D}2
+|ifv3
+|ido0t4U{r208}A{aaaaaaaa}4VA4
+|idt4v5U<A{rararara}4VA4
+|idv1t2UA{cccccccc}8VA8
+//Luting length: 487
+
+//#lute 544
+
+//Lead Singer: The Cat aka Barbie
+//imt2r64A{a'ea'>d'<a8g'e'g'ba'4g'er4ed'g'4d'4r4g'ea'4g'4
+//a'ea'>d'<a6ag'e'g'ba'4g'er2d'ed'g'4d'4g'g'g'ea'4g'e}r16A
+//r10X{eg'a'a'eg'a'4eg'a'4aa'g'4e'eg'4e'eg'4g'a'g'4e}
+
+
+//Side Singer: The Bean aka Ken
+//|itt2r192eed'<b>ee<bb>r202X
+//Accompanying voice high
+//|ibv5Z{t8(d'ea')(d'g'a)<(be'g')(bea')>(d'ea')(d'g'a)(eg'b)e'
+//A{(d'ea')(d'g'a)<(be'g')(bea')(a'd')(ad')(be)(be')>}2r16A2
+//(d'ea')3(d'ea')3(d'ea')4r4
+//B{(d'e)(d'e)<(ad')(ad')(be')(be')(a'd')(a'd')>}2}
+//|ifv3Z
+
+//Accompanying voice low
+//|ibv5Y{o2t8r64A{d'g'<b>ed'g'<b16>}2r16t4B{d'd'<g'g'bbee>d'd'<g'g'bbbb>}2
+//d'3d'3d'2d'8B{d'd'2d'10<g'g'2g'10bb2b10>d'd'2d'10}2}
+//|ifv3
+
+//Percussion
+//Bassdrum
+//|ido0t4r208A{aaaa}8r16A8
+//Clap
+//|idt4v5r208<A{rara}8r16A8
+//Hi-Hat
+//|idv1t2r208A{cccc}16r16A16

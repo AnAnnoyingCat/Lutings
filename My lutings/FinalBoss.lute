@@ -1,0 +1,23 @@
+//Final Boss - Nitro Fun
+//Author: JustAnAnnoyingCat
+//#lute 520 
+
+//main voice
+//ibv7Z{A{dW{d>d}fa>c<af/2e/2fed<a2a>cd<}7(fac)6(dgb)8t2rB{>f4afe4ad12ddcd4Wc4d<a18>f4fedf4c4<X{b'}ab'4X2ad4dXaf4d18<}2}
+//add lute, flute and keyboard to make it sound more impactful
+//|ilZ
+//|ifv3Z
+//|ikv4Z
+
+//lower voice first part
+//|ibY{v3o2t4A{C{(dd)}3E{(dd)2}2}3K{(ff)}L{(ff)2}(gg)6LG{(ee)2}v6o2t4A3v9E3G3(ee)F{W<c<a2b'2X4}X>Xc>c2<f2ffffF>
+//lower voice second part with fuckton of chords
+//H{(<gg)}2D{(cc)}(d'd')2EC5t2(>dd)C2D(ee)I{(<b'b')4}B{(<b'b')}7IKBDHD(dd)4C4DCKCrCr1(dd)1
+//M{(cc)1}2D(<ff)(b'b')1(aa)/2(gg)/2(ff)/2(ee)/2(dd)/2(cc)/2B2J{(<b'b')1}2B2(<aa)B(<gg)4(gg)4D2(d'd')(dd)12}
+//|icY
+
+
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 520 ibv7Z{A{dW{d>d}fa>c<af/2e/2fed<a2a>cd<}7(fac)6(dgb)8t2rB{>f4afe4ad12ddcd4Wc4d<a18>f4fedf4c4<X{b'}ab'4X2ad4dXaf4d18<}2}|ilZ|ifv3Z|ikv4Z|ibY{v3o2t4A{C{(dd)}3E{(dd)2}2}3K{(ff)}L{(ff)2}(gg)6LG{(ee)2}v6o2t4A3v9E3G3(ee)F{W<c<a2b'2X4}X>Xc>c2<f2ffffF>H{(<gg)}2D{(cc)}(d'd')2EC5t2(>dd)C2D(ee)I{(<b'b')4}B{(<b'b')}7IKBDHD(dd)4C4DCKCrCr1(dd)1M{(cc)1}2D(<ff)(b'b')1(aa)/2(gg)/2(ff)/2(ee)/2(dd)/2(cc)/2B2J{(<b'b')1}2B2(<aa)B(<gg)4(gg)4D2(d'd')(dd)12}|icY
+//Luting length: 451
+

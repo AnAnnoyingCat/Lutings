@@ -1,0 +1,13 @@
+//Toxic - Britney Spears
+//Author: JustAnAnnoyingCat
+//#lute 560
+//imt2gb'>d4c<b'b'4g4fe'b'12r4>cr<gr>cr<g4>c1r1c1r1<g4gb'>d4c<b'b'4g4f2e'2b'8ce'g'4fe'e'4ce'g'4fe'f4g4r28>ce'g'4fe'e'4ce'g'4fe'f4g4|idv1r4A{r10c2c2c2}16|idv3r4A{o1c4o3a2o1c2r4o3a4}16|ibo3v3t4rA{(ce'g)r2(ce'g)6b'2>c2<(ce'g)r2(ce'g)6r4(e'gb')r2(e'gb')6b'2>c2<(e'gb')r2(e'gb')6r4(gb'd)r2(gb'd)6b'2>c2<(gb'd)r2(gb'd)6r4}<(a'ce')r2(a'ce')6b'2>c2<(a'ce')r2(a'ce')6r4>AB{(ce'g)r7(ce'g)1(ce'g)2(ce'g)2}2|ilv5r100>A{c2c2e'dcde'3ce'dc2}r112A|ifv2Z{o6t4r116g'de'2d2cr112g'de'2d2c}|ibv7Z
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 560 imt2B{gb'>d4c<b'b'4g4}fW{e'}b'12Y{r4}>cr<gr>cr<g4>c1r1c1r1<g4Bf2e'2b'8A{cWg'4fW}C{e'4Af4g4}r28>AC
+|idv1YA{r10X{c2}3}16
+|idv3YA{o1c4o3a2o1XYo3a4}16
+|ibo3v3t4rA{F{I{(ce'g)}r2(ce'g)6}C{b'2>X<}FYD{(e'gb')r2(e'gb')6}CDYG{(gb'd)r2(gb'd)6}CGY}<E{(a'ce')r2(a'ce')6}CEY>AB{Ir7(ce'g)1H{(ce'g)2}2}2
+|ilv5r100>A{X2Wdcde'3cWdX}V{r112A}
+|ifv2Z{o6t4r116A{g'de'2d2c}V}
+|ibv7Z
+//Luting length: 363

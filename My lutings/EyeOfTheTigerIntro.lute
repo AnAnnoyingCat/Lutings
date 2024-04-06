@@ -1,0 +1,21 @@
+//Eye of the Tiger Intro
+//Author: JustAnAnnoyingCat
+
+#lute m 448
+ibv7W{t3/2r32
+A{(ce'gc)2r6(ce'gc)r(<b'dfb')r(ce'gc)3r7(ce'gc)r(<b'dfb')r(ce'gc)3r7(ce'gc)r(<b'dfb')r(<a'ce'a')12r6
+(ce'gc)2r6(ce'gc)r(<b'dfb')r(ce'gc)3r9(ce'gc)r(<b'dfb')r(ce'gc)3r5(ce'gc)r(<b'dfb')r(<a'ce'a')12r6}2}
+|ifv3<W
+
+//Left Right Thingy
+|ilX{v2<A{crrr}72}
+|ilY{s4v2<A{rrcr}72}
+|ilZ{s6v2<A{rcrc}72}
+|ibX
+|ibY
+|ibZ
+
+//percussion
+//on note c1 + a4
+|ido0v5t3/2r32B{(ac>3a)2r6A{(ac>3a)r}3r7A3r7A2(ac>4c)12r6(ac>3a)2r6A3r9A3r5A2(ac>4c)12r6}2
+|idr160o0v4t4A{a(a>2c)a(a>2c>c)}8
