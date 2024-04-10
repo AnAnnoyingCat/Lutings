@@ -1,0 +1,20 @@
+//#lute 420
+
+//sax (violin)
+//ivs7r76t4/3b'>dfg6r6ce'gb'6r6ce'g'b'6
+//Trumpet 1
+//|ih>s3v7r32f3f/2f/2f4t4/3rg'fg'fg'f3f/2f/2fffffffde'f3f/2f/2f6r10 c3c/2c/2c6r6e'3e'/2e'/2e'6r6fde'f12
+//Trumpet 2
+//|ih>s3v7r32d3d/2d/2d4t4/3rdddddd3d/2d/2ddddddddrd3d/2d/2d6r10
+//Trombone 1
+//|ifs4v7r32b'3b'/2b'/2b'4t4/3rb'b'b'b'b'b'3b'/2b'/2b'b'b'b'b'b'b'b'b'b'3b'/2b'/2b'6r10 g3g/2g/2g6r6b'3b'/2b'/2>c6<r6b'b'b'b'12
+//Trombone 2
+//|ifs4v7r32f3f/2f/2f4t4/3rg'fg'fg'f3f/2f/2fffffffde'f3f/2f/2f6r10 e'3e'/2e'/2e'6r6g'3g'/2g'/2a6r6ffff12
+//Snare o3c
+//|ids4<t2ccr4ccr4v5A{c/4}32vccr4c3c/2c/2B{c/2}8t4/3rcccccc3c/2c/2cccccccccc3c/2c/2c4c4r8c3c/2c/2C{c1}6r6c3c/2c/2C6
+//Bass drum o0a
+//|ids6o0t2aar4aar12aar12a4r28a4r8a4r12a4
+
+//Un(!)-safely optimized luting; make sure it compiles first: 
+#lute 420 ivs7r76W{t4/3}T{b'}>dfg6U{r6}ce'gS{b'6}Uce'g'S|ih>s3Z{V{v7r32}A{f3f/2f/2}f4Wrg'fg'fg'AR{fff}2fde'Af6Q{r10}}c3Y{c/2c/2}c6UX{e'3e'/2e'/2e'6U}fde'f12|ih>s3VA{d3d/2d/2}d4WrB{dddd}dAB2rAd6Q|ifs4VA{b'3b'/2b'/2}b'4WrB{T3}T2AB3ASQg3g/2g/2g6UA>c6<UBb'12|ifs4ZXg'3g'/2g'/2a6URf12|ids4<t2C{cc}r4Cr4v5A{D{c/4}4}8vCr4c3Y5WrC2cE{c3Y}C4cEc4c4r8EB{c1c1}3UEB3|ids6o0t2aar4A{aar12}2a4r28a4r8a4r12a4
+//Luting length: 390
