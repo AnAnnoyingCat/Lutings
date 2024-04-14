@@ -1,0 +1,55 @@
+//Coconut Mall
+//Author: JustAnAnnoyingCat
+#lute 1064
+
+//Piano (Lute + Keyboard + eventually Bass)
+ilv7Z{t2(ace)rfcr(ace)r(gb'd)rfr(gb'd)r4(gb'd)r(fac)rfcr(fac)r(e'gb')re'r(e'gb')r4(e'gb')r(ace)rfcr(ace)r(gb'd)rfr(gb'd)r4(gb'd)r(fac)rfcr24}Y{v
+>dre're4rdrdrefr>crdrcrdrcr<b'agfr4c4dre're4rdrdrefr>crfrd1r1c<b'agfr12
+cd'(<b'd)r(<be')r(ce)4r(<ad)r(<ad)refr(fc)r(b'd)r(ac)r(b'd)r(ac)r(db')ag(<af)r4>cr(df)r(<b'd)rcr<b'r(fa)(gb')(a'b)(ac)r(fd)rf(da)rfrderfr12}
+|ikv7ZY
+|ibr128t2Y
+
+//Lower Piano (Lute + Keyboard + Bass)
+|ilW{v4o1s3t2r128A{g4>gr<c4>cr<f4>fr<f4>fr<}3g4>gr<c4>cr<f1r1fc4fr6A2b'4>b'r<b4>brc'4>cr<d4>dr<<g4>grc4>cr<<f1r2f2c4f2r6}
+|ikW
+|ibW
+
+//Steel Drum (Bell)
+|iav4s3o5t2r24A{cf}2t16/9A4ct16/12fA5ct16/10A5fA2t16/12A6
+
+//Strings (quiet bass for holding the note)
+|ibv2s5t32(cc)(cc)(ccf)40
+
+//Vibraphone
+|iiv3s8t4r32>b'b'fr2b'b'b'2ffb'b'fr2b'4b'4b'2ffb'b'>e8
+
+//Organ Main
+|iov1s7r128t2A{(fgb'd)r(fgb'e')r(gb'ce')4r(facd)r(facd)r(face)(facf)r(face)r(gb'df)r(gb'df)r(gb'ce)4r(facd)r(facd)r(fac)4r(fac)r(gb'df)r(gb'df)r(gb'cd)4r
+(facd)r(facd)r(fac)4r(fac)r(fgb'd)r(fgb'd)r(gb'cd)4r(acdf)r16}2
+//Organ Sub
+|ios7v1X{o2s2t4r128grcrfrfrgrcrfrfrgrcrfrfrgrcrf1r1f2cf2r6grcrfrfrgrcrfrfr<b'rb>rcrdr<gr>crf1r1f2c4f2r6}
+
+//Bass
+|ibv7X
+|icv4X
+
+//Maracas
+|idv1s4t2A{crcr}13r24B{ccacccac}24
+|idv1s6t2A{rcrc}13r24
+
+//Hand Clap
+|ido3t4r56ar12ar12ar36r256v6A{rara}8
+
+//Rim
+|ido2v7r110aaa2a2r2aat8/6caaaaavA{t2r48r10aar40a3/2a5/2ar6ar4t8/6aaaaaat2}3
+
+//Bass Drum
+|ido0t8r128A{aa}24
+
+//Safely optimized Luting: 
+//#lute 1064 ilv7O{t2}W{F{(ace)r}fS{cr}FC{(gb'd)}rN{fr}Cr4CR{r(fac)}rfc}T{RrB{(e'gb')}re'rBr4BrWL{r24}}Z{v>A{K{dr}e're4rK2eNH{>S}}KSKS<Q{b'}agfr4c4ANd1r1c<QagfJ{r12}cd'E{(<b'd)r}(<be')r(ce)4G{r(<ad)}2reN(fc)D{r(b'd)r(ac)}2r(db')ag(<af)r4H(df)rES<Qr(fa)(gb')(a'b)(ac)r(fd)rf(da)rNderfJ}|ikv7OWTZ|ibP{r128}OZ|ilY{v4o1s3OPA{B{C{g4>gr}<c4H<}D{f4>N<}2}3BI{f1r1}fc4fr6A2b'4>Qr<b4>brc'4H<d4>K<<Cc4H<<f1r2M{f2c4f2r6}}|ikY|ibY|iav4s3o5OLA{cfcf}t16/9A2cB{t16/12}fA2cfct16/10A2cffABA3|ibv2s5t32(cc)(cc)(ccf)40|iiv3s8t4r32>Q2fr2Q2A{b'2ffQ2}fr2b'4b'4A>e8|iov1s7POA{D{(fgb'd)r}(fgb'e')r(gb'ce')4B{r(facd)}2G{r(face)}(facf)GC{r(gb'df)}2r(gb'ce)4E{B2r(fac)4R}C2rF{(gb'cd)4}ErD2Fr(acdf)r16}2|ios7v1X{o2s2t4PA{grSN2}3grSIf2cf2r6A2<Qrb>rSK<grHIM}|ibv7X|icv4X|idv1s4OV{S5}5SLA{B{ccac}3}16|idv1s6OrV5cL|ido3t4r56aJaJar36r256v6A{rara}8|ido2v7r110aaa2a2r2aat8/6cU{aaaaa}vA{Or48r10aar40a3/2a5/2ar6ar4t8/6UaO}3|ido0t8PU9aaa
+//Luting length: 896
+
+//Quickly optimized lutiing: 
+//#lute 1064 ilv7Z{R{t2}C{I{(ace)r}fV{cr}IF{(gb'd)}rQ{fr}Fr4FU{r(fac)}rfc}UrE{(e'gb')}re'rEr4ErCN{r24}}Y{v>D{M{dr}e're4rM2eQJ{>V}}MVMV<T{b'}agfr4c4DQd1r1c<TagfL{r12}cd'H{(<b'd)r}(<be')r(ce)4r(<ad)r(<ad)reQ(fc)G{r(b'd)r(ac)}2r(db')ag(<af)r4J(df)rHV<Tr(fa)(gb')(a'b)(ac)r(fd)rf(da)rQderfL}|ikv7ZY|ibS{r128}RY|ilW{v4o1s3RSA{C{D{g4>gr}<c4J<}E{f4>Q<}2}3CK{f1r1}fc4fr6A2b'4>Tr<b4>brc'4J<d4>M<<Dc4J<<f1r2O{f2c4f2r6}}|ikW|ibW|iav4s3o5RNA{cf}2t16/9A4cC{t16/12}fA5ct16/10A5fA2CA6|ibv2s5t32(cc)(cc)(ccf)40|iiv3s8t4r32>T2fr2T2C{b'2ffT2}fr2b'4b'4C>e8|iov1s7SRA{E{(fgb'd)r}(fgb'e')r(gb'ce')4C{r(facd)}2H{r(face)}(facf)HD{r(gb'df)}2r(gb'ce)4F{C2r(fac)4U}D2rG{(gb'cd)4}FrE2Gr(acdf)r16}2|ios7v1X{o2s2t4SC{grVQ2}3grVKf2cf2r6C2<Trb>rVM<grJKO}|ibv7X|icv4X|idv1s4RA{V2}13NB{ccacccac}24|idv1s6RA{rVc}13N|ido3t4r56aLaLar36r256v6A{rara}8|ido2v7r110P{aa}a2a2r2Pt8/6cP2avA{Rr48r10Pr40a3/2a5/2ar6ar4t8/6P3R}3|ido0t8SA{P}24
+//Luting length: 893
