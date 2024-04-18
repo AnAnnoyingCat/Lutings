@@ -1,0 +1,66 @@
+//Coconut Mall
+//Author: JustAnAnnoyingCat
+#lute 1064
+
+//Piano (Lute + Keyboard + eventually Bass)
+ilv7Z{t2(ace)rfcr(ace)r(gb'd)rfr(gb'd)r4(gb'd)r(fac)rfcr(fac)r(e'gb')re'r(e'gb')r4(e'gb')r(ace)rfcr(ace)r(gb'd)rfr(gb'd)r4(gb'd)r(fac)rfcr24}Y{v
+>dre're4rdrdrefr>crdrcrdrcr<b'agfr4c4dre're4rdrdrefr>crfrd1r1c<b'agfr12
+cd'(<b'd)r(<be')r(ce)4r(<ad)r(<ad)refr(fc)r(b'd)r(ac)r(b'd)r(ac)r(db')ag(<af)r4>cr(df)r(<b'd)rcr<b'r(fa)(gb')(a'b)(ac)r(fd)rf(da)rfrderfr12
+d'd(<be')r(ce)r(d'f)4r(<b'e')r(<b'e')rfg'r(g'd')r(be')r(b'd')r(be')r(b'd')r(e'b)b'a'(<b'g')r8(<be')r(ce)r(d'f)4r(<b'e')r(<b'e')rfg'r(g'd')r(bg')r>e'1r1d'<bb'a'g'r16}
+|ikv7ZY
+|ibr128t2Y
+
+//Lower Piano (Lute + Keyboard + Bass)
+|ilW{v4o1s3t2r128A{g4>gr<c4>cr<f4>fr<f4>fr<}3g4>gr<c4>cr<f1r1fc4fr6A2b'4>b'r<b4>brc'4>cr<d4>dr<<g4>grc4>cr<<f1r1f2c4f2r6
+B{a'4>a'r<d'4>d'r<g'4>g'r<g'4>g'r<}3a'4>a'r<d'4>d'r<r16}
+|ikW
+|ibW
+
+//Steel Drum (Bell)
+|iav4s3o5t2r24A{cf}2t16/9A4ct16/12fA5ct16/10A5fA2t16/12A6
+
+//Strings (quiet bass for holding the note)
+|ibv2s5t32(cc)(cc)(ccf)40
+
+//Vibraphone
+|iiv3s8t4r32>b'b'fr2b'b'b'2ffb'b'fr2b'4b'4b'2ffb'b'>e8<r16r384<<b>cd'r2<b'6b>d'r<b>cd't2r<b4b>cd'de'ert4d'de't2rd'4de'et4red'det2rd'4de'eg'ga'at4
+ff'gr2ff2g'2r2grfg'gt2rf4fg'ga'ab'rt4gab'r2gg2a'2r2aagab'r2ga2b'2r2aa>c8
+
+//Glockenspiel
+|ibv6o6s1t2r562g'>(d'g')<g'>(d'g')r26erer56<g>(dg)<g>(dg)r56<f>(cf)<f>(cf)
+
+//Organ Main
+|iov1s7r128t2A{(fgb'd)r(fgb'e')r(gb'ce')4r(facd)r(facd)r(face)(facf)r(face)r(gb'df)r(gb'df)r(gb'ce)4r(facd)r(facd)r(fac)4r(fac)r(gb'df)r(gb'df)r(gb'cd)4r
+(facd)r(facd)r(fac)4r(fac)r(fgb'd)r(fgb'd)r(gb'cd)4r(acdf)r16}2
+(g'a'be')r(g'a'be)r(a'bd'f)4r(g'b'd'e')r(g'b'd'e')r(g'b'd'f)(g'b'd'g')r(g'b'd'f)r(a'be'g')r(a'be'g')r(a'bd'f)4r(g'b'd'e')r(g'b'd'e')r(g'b'd')4r(g'd'e')r
+(g'a'b'd')r(g'a'b'e)r(a'bd'f)4r(g'b'd'e')r(g'b'd'e')r(g'b'd'f)(g'b'd'g')r(gb'd'f)r(g'a'be')r(g'a'be')r(a'bd'f)4r(b'd'e'g')r16
+v3s5
+(ea'b)1r3(ea'b)1r5(ea'b)r(ea'b')r(ea'b')r4(ea'b')1r3(ea'b')1r3(ea'b)1r3(ea'b)1r5(ea'b)r(ea'b')r(ea'b')r(ea'b')r4(ea'b')1r3
+(dg'a)1r3(dg'a)1r5(dg'a)r(dg'a')r(dg'a')r(dg'a')r4(dg'a')1r3(dg'a)1r3(dg'a)1r5(dg'a)r(dg'a')r(dg'a')r4(dg'a')r(dg'a')1r3
+(fac)1r3(fac)1r5(fac)r(fab)r(fab)r4(fab)1r3(fab)1r3(fac)1r3(fac)1r5(fac)r(fab)r(fab)r4(fab)1r3(fab)1r3
+(e'gb')1r3(e'gb')1r5(e'gb')r(e'ga)r(e'ga)r4(e'ga)1r3(e'ga)1r3(e'gb')1r3(e'gb')1r5(e'gb')r(e'ga)r(e'ga)r4(e'ga)1r3(e'ga)1r3
+//Organ Sub
+|ios7v1X{o2s2t4r128grcrfrfrgrcrfrfrgrcrfrfrgrcrf1r1f2cf2r6grcrfrfrgrcrfrfr<b'rb>rcrdr<gr>crf1r1f2c4f2r6
+a'rd'rg'rg'ra'rd'rg'rg'ra'rd'rg'rg'ra'rd'rr16}
+
+//Saxophone (Brass Section + Flute)
+|ihV{s3r508t4/3a'g'ft2era'br>e'rg're'r<br8era'br>e'rg're'r<b>g'ra'rara'rg'rd1r1<a>d'de'erd're6d'r<braa'rereg'rt4/3agg't2fra>crergrercr4<t4/3agg't2fra>crergred<b>gra1r1g1a1
+b'rargre'<b'>de'efr<b'>rf6t4/3de'dt2cgrb're'b'gt4/3ab'>cde'ef8r4}
+|if<V
+
+//Bass
+|ibv7X
+|icv4X
+
+//Maracas
+|idv1s4t2A{crcr}13r24B{ccacccac}40
+|idv1s6t2A{rcrc}13r24
+
+//Hand Clap
+|ido3t4r56ar12ar12ar36r256v6A{rara}8
+
+//Rim
+|ido2v7r110aaa2a2r2aat8/6caaaaavA{t2r48r10aar40a3/2a5/2ar6ar4t8/6aaaaaat2}3
+
+//Bass Drum
+|ido0t8r128A{aa}24v6A16

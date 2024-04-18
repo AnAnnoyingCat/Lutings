@@ -1,0 +1,55 @@
+//Aquatic Ambiance
+//Author: JustAnAnnoyingCat
+
+#lute 288
+//R1
+iis8  t2A{v6>d<b'v2  >d<b'  v6>d<b'  v2>dv6<b'  >d<b'  v2>d<b'  >d<b'  >d<b'}
+       B{v2>c<e'  a'e'  v4>c<v2e'  v4a'v6e'  >c<v2e'  a'e'  >c<v1e'  a'e'}
+	   r16
+	   A
+	   B
+	   v6a'cv2 a'b'  v6a'c  v2a'v6b'  a'c  v2a'b'  a'c  a'b'
+	   v6>e'<gv2  >c<d  v6>e'<g  v2>c<v6d  >e'<g  v2>c<d  >e'<g  >c<d
+//R2
+|iis8  t2r1A{v6>e'<gv2  >e'<g  v6>e'<g  v2>e'v6<g  >e'<g  v2>e'<g  >e'<g  >e'<g}
+       B{v2b'f  gc  v4b'v2f  v4gv6c  b'v2f  gc  b'v1f  gc}
+	   r16
+	   A
+	   B
+	   v6ge'v2  gf  v6ge'  v2gv6f  ge'  v2gf  ge'  gf
+	   v2>d<b'  b'f  >v4d<v2b'  v4b'v6f  >d<v2b'  b'f  >d<v1b'  b'f
+//M1
+|iis5 t2A{v2>d<b'  v6>d<b'  v2>d<b' >d<b'  >d<b'  >d<b'  >d<b'  >d<b'}
+		B{v2>c<e'  a'e'  v4>c<e' v2a'e'  >c<e'  a'e'  v1>c<e'  a'e'}
+		r16
+		A
+		B
+		v2a'c  v6a'b'  v2a'c  a'b'  a'c  a'b'  a'c  a'b'
+		v2>e'<g  >c<d  v4>e'<g  v2>c<d  >e'<g  >c<d  v1>e'<g  >c<d
+//M2
+|iis5 t2r1A{v2>e'<g  v6>e'<g  v2>e'<g  >e'<g  >e'<g  >e'<g  >e'<g  >e'<g}
+	    B{v2b'f  gc  v4b'f  v2gc  b'f  gc  v1b'f  gc}
+	    r16
+	    A
+	    B
+		v2ge'  v6gf  v2ge'  gf  ge'  gf  ge'  gf	
+		v2>d<b'  b'f v4 >d<b'  v2b'f  >d<b'  b'f  v1>d<b'  b'f
+//L1
+|iis2t2A{v2>d<b'  >d<b'  >d<v4b'  v6>d<b'  v2>dv4<b'  v6>d<b'  >d<b'  v2>d<b'}
+		B{v2>c<e'  a'e'  >c<v4e'  a'e'  v2>c<v4e'  a'e'  v1>c<v2e'  v1a'e'}
+		r16
+		A
+		B
+		v2a'c  a'b'  a'v4c  v6a'b'  v2a'v4c  v6a'b'  a'c  v2a'b'
+		v2>e'<g  >c<d  >e'<v4g  >c<d  v2>e'<v4g  >c<d  v1>e'<v2g  v1>c<d
+//L2
+|iis2t2r1A{v2>e'<g  >e'<g  >e'<v4g  v6>e'<g  v2>e'v4<g  v6>e'<g  >e'<g  v2>e'<g}
+		B{v2b'f  gc  b'v4f  gc  v2b'v4f  gc  v1b'v2f  v1gc}
+		r16
+		A
+		B
+		v2ge'  gf  gv4e'  v6gf  v2gv4e'  v6gf  ge'  v2gf
+		v2>d<b'  b'f  >d<v4b'  b'f  v2>d<v4b'  b'f  v1>d<v2b'  v1b'f
+//Bass
+|ibo3v7t32c<a'>>(e'gd)16<c<a'f>d(gb'e'f)
+
