@@ -1,0 +1,26 @@
+//Gangsta's Paradise
+//Author: JustAnAnnoyingCat
+//#lute 660
+//Main Voice (Cat)
+//imt2r128B{r4(a'ce')r(a'ce')4A{(a'ce')(fa'd)r(fa'c)r(fa'c)r4(fa'c)(fa'c)(dgb)4r(gd)r(e'>e')6(e'd)>c<b(e'c)r8}}C{r4(a'ce')r(a'cf)4A}Bv5C
+//Secondary Voice one octave higher
+//|ibt2v3r256Bv1C
+//Violin
+//|ivt4v1>B{(e'a'c)r(e'a'c)rA{(fa'c)r(fa'c)r(dgb)r(dgb)r(e'gc)r(e'g)r}(e'gc)r(e'gc)rA}3
+//Keyboard 
+//|ikt4v3A{a'>ce'a'<f>ce'>c<<gb>dg<cg>cg<}2
+//Bass
+//|ibv6r128t2B{o1a'>e'a'b'>ce'4r2  o1f>cfga'>cr4  o1b>b>dd<b4g4  o1cr6>e'g>e'>c}3v3B
+//|icv4r128t2B3v1B
+//Hi-hat
+//|idv1t4A{cccc}24
+//Bass-Drum
+//|ido0t32aaaa t4A{ar12aar8}8
+//Clap
+//|idv6<t8r120a  A{rara}8
+//Choir
+//|ier128>v6A{c16e'8d4c4 <b16>c8d4e'4}B{c16e'8d4c4 <b16>c8r8}Av4B
+
+//Thoroughly optimized Luting: 
+#lute 660 imt2T{r128}X{r4A{(a'ce')}r}U{(a'ce')4}Y{A(fa'd)rW{(fa'c)}rWr4W2(dgb)4r(gd)r(e'>e')6(e'd)S{>c}<b(e'c)r8}V{X(a'cf)4Y}XUYv5V|ibt2v3r256XUYv1V|ivt4v1>A{D{(e'a'c)}rDB{rWrWE{r(dgb)}2rC{(e'gc)}r(e'g)r}CrCB}3|ikt4v3A{R{a'}SQ{e'}R<fSQS<<gb>dg<cgSg<}2|ibv6Tt2Z{o1R>QRb'SP{e'4}r2o1fSfgRSr4o1b>b>dd<b4g4o1cr6>Qg>QS}3v3Z|icv4Tt2Z3v1Z|idv1t4A{cccccccc}12|ido0t32aaaat4A{ar12aar8}8|idv6<t8r120A{arar}8a|ieT>v6A{c16e'8d4c4<b16>c8}d4PAr8Ad4Pv4Ar8
+//Luting length: 439
