@@ -1,0 +1,45 @@
+//Diggy Diggy Hole
+//Author: JustAnAnnoyingCat
+#lute 960
+//Lead Voice (Ld. M.)
+ieV{o2s4r384A{f5f3f5g3a'5b'3>c8 d'8<a'8a'5g3f8}2 f5f3f5e'3f5g3a'5r3> d'5d'3d'5d'3c5<b'3>c5r3< f5f3f5g3a'5b'3>c5r3< g5g3g5f3g5a'3g5r3 r32}
+U{>d'8c5<b'3>c12r4<b'5b'3b'5>c3<b'5a'3f5r3 >d'8c5<b'3>c13c3<b'5b'3b'5>c3<b'5a'3f5r3 >d'8c5<b'3>c12r4e8c5<b'3a'13f3 a'5f3a'8a'5b'3>c8<b'5b'3b'5>c3e'5f3e'8< r32
+B{f8f5g3a'8a'5>c3<b'8a'5g3f13r3 a'5f3a'5f3e'13r3} a'5f3a'5f3g13r3 B g8f5g3f13 }
+|iev3V
+//Sub Voice 1 (Bk. M.)
+|ieo2s2X{v5r384 r32 >d'8<a'8a'4g4f8 r32 >d'8<a'8a'5g3f8 r160 U}
+//Sub Voice 2 (Bk. M.)
+|ieo2s6X
+
+//Strings (Vcs.)
+|ivZ{s6r128o2t2A{f3r2a'3f3r2a'3f3r2r3a'8/3g8/3e'8/3 f3r2a'3f3r2a'3f3r2r3e'4r4}3 f3r2a'3f3r2a'3f3r2r3a'8/3g8/3e'8/3 t4d'rd'rcrcr
+A{frfrfrfrd'r<a'ra'rfr>}2 v5t16a'g>d'c< r64 v >c5<b'3>c5<b'3>c5d'3c5r3< 
+v6>d'<a'e'f>d'<a'e'32>d'<a'>cd'd'32<e'32 r32 >T{v2(fa')(a'c)(gb')(d'f)(d'f)(e'a')(fa')(e'g) (fa')(a'c)(gb')(d'f)(d'f)(e'a')c(fa')}}
+|ibZ
+
+//Horns(F. Hn.)
+|ihv7s2r256e'64r32e'16f16 
+
+//Guitar II (Chiptuney Bass)
+|ibv6o2s3W{t16r416 >d'8<a'8a'5g3f8 r32 >d'8<a'8a'5g3f8 fgb'>c<a'gc32 r32a'e'gfa'e'g32a'e'gfb'32c32}
+|icv4o2s3W
+
+//Bass (El. B.)
+|ibv5Y{s3r128A{f5a'3f5a'3f5a'3a'8/3g8/3e'8/3 f5a'3f5a'3f5a'3e'5a'3}3 f5a'3f5a'3f5a'3a'8/3g8/3e'8/3 d'5d'3d'5d'3c5c3c5c3
+<A{f5f3f5g3a'5b'3>c8 d'8<a'8a'5g3f8}2 f5f3f5f3 e'5e'3e'5e'3 d'5d'3d'5d'3 a'5a'3a'5a'3 f5f3f5f3 e'5e'3e'5e'3 c5c3c5c3c5c3c5r3 r32
+A{d'5d'3d'5d'3a'5a'3a'5a'3e'5e'3e'5e'3f5f3f5f3}2 d'5d'3d'5d'3a'5a'3a'5a' c5c3c5c3d'5d'3d'5d'3 d'5d'3d'5d'3d'5d'3d'5d'3 e'5e'3e'5e'3e'5e'3e'5e'3 r32 t16fa'e'd'32a'd'cfa'e'd'3a'cf}
+|icv2Y
+
+//Percussion
+//Mid Tom
+|ido1t8A{arar arr16/3a8/3r8/3a16/3}8 B{arar}4 r32 B8 r16a8/3>c8/3<at8/3a C{r8rar r8a>c<a r8a>c<a r8a>c<a}3r8rar r8a>c<a r8a>c<a
+//Snare drum
+|ido3t8A{rcrc16/3c8/3 rccr16/3c8/3}8 B{rcrc16/3c8/3}4 c16cc B8 ccrc C{crcr}7crc
+//Floor tom
+|ido1t8/3A{c8c8c8rcr c8c8rcrc8}8 B{r24rcr}4 r16rccrcc B8 rccrccrrrrcr C{r8crcr48}4
+//Bass Drum
+|ido0B{A{a5a3}3a8 A2a8a8}8 B{A3a8}4 a32 B8 a8a8a8a8 C{a8a8a8a8}7a8a8a8
+//Hollow Bass
+|ido0t8/3A{b8b8b8bbb b8b8bbbbbb}6 B{b8b8b8bbb b8b8b8b5b3}4 b16bbbbbb C{b8b8b8bbb}8 bbbbbbbbbbbb D{r8bbbr8bbb}7r8bbb
+//Hi-Hat
+|idv2r512t8acccA{cccc}3>c32<acccA{cccc}7 acccA{cccc}6ccccc
