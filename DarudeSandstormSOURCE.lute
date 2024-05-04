@@ -1,0 +1,12 @@
+//Darude Sandstorm
+//Author: JustAnAnnoyingCat
+#lute 544
+//BG Synth
+ibv1A{(egb)3(egb)3(egb)2(egb)3(egb)3(gce)2} B{(gce)3(gce)3(gbd)2(gbd)3(gbd)3(dg'a)2}v2AAv3ABv4AAC{ABAA}2
+
+//Main synth
+|ilZ{r128A{bbbbbr3}r20>d<r3Ar24A4B{b}32}
+|ilr128A{(ee)(ee)(ee)(ee)(ee)r3}r20(gg)r3Ar24A4B{(ee)}32
+
+//Drums
+|idr124o1(c>2c)4(c>2c)4v1r12t1A{c}32v2A32v3A32v3A16
