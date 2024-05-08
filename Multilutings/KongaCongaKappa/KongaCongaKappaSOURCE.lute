@@ -1,0 +1,23 @@
+//Konga Conga Kappa - Danny Baronowsky
+//Author: JustAnAnnoyingCat
+#lute 480
+//Main Voice
+ivv6t2r64(a'b)r3(a'b)r1(a'b)8  (b'd')r3(b'd')1(b'd')1r1(b'd')3r1(be')4  r2(a'b)r1(a'b)1(a'b)1r3(a'b)4(a'b)1(a'b)1  (bd)3(b'd')3(a'b)t1(b'd')(be')(b'd')(a'b)(b'd')(be')(b'd')r1 
+v4t2a'b1gb'a'3b1g'e'1g'1g1  a'b1ge'a'3>e'dd'<  a'b1gb'a'3b1g'e'1g'1g1  a'b1ge'a'3a'b'b  
+v6t2r2(b'd')1(be')3(a'b)>d'1<b1(b'd')1(be')>d'1<(a'b)  b't1(e'a')(g'b)3(g'b')2v8(be')(b'd')(be')(b'g)2(>d'f')(be')r
+v6a'<e'a'b'ba'b>d'e'<b>e'g'a'e'a'b'  ba'b>d'e'<b>e'a'<a'(<a'e')(<a'e')(e'a')3(g'b')(a'b)r4
+
+//Bass
+|ibs3t3o2Z{A{a'bb'2a'e'g'2 a'bb'2a'r5}2  a'a'a'2ba'a'2  >e'd<b1a'1>d'r5  <a'a'a'1a'1ba'2a'1a'1a'1  >d2<a'1>d'2<a'1b2>d'1e'1d'1<b1r4  A  a'bb'2a'e'g'2  a'bb'2a'>a'2b'2b1< 
+(f'f')16(g'g')8(e'e')2r6(a'a')16(b'b')4(bb)4}
+|ics7t3o2v3Z
+
+//Perc
+//Bass Drum
+|ido0t4A{(ac)r(ac)r(ac)r(ac)r}2 B{(ac)3(ac)3(ac)2(ac)3(ac)3(ac)2(ac)3(ac)3(ac)2(ac)8}6
+//Clap / c3
+|idv3t4<t4A{rararar8}2  v7B{rcrcrcr8}2 rcrcrcr2a2a2r2 B3
+//"Bongo"
+|ids8o2v4A{r5aaar5aaa  r5aa/2a/2a/2a/2r4o6crcco2  r5aaar5aaa  r5aaat/2aaaaaaaat1o6c2cco2}  r28o6c2cco2 r32 A
+
+
