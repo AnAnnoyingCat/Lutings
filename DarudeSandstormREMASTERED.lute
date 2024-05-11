@@ -9,5 +9,5 @@ ibv1A{(egb)3(egb)3(egb)2(egb)3(egb)3(gce)2} B{(gce)3(gce)3(gbd)2(gbd)3(gbd)3(dg'
 |ilr128A{B{(ee)}5r3}r20(gg)r3Ar24A4B32 E{B4(ee)rB6(ee)rC{(aa)}2}  F{C4(aa)rD{(gg)}6(gg)r(dd)(dd)}EE EFEB4(ee)rB6(ee)r
 
 //Drums
-|idr124o1(c>2c)4(c>2c)4v1r12t1A{c}32v2A32v3A32t/2A32<t4A{aaaa}8
-|idr124r4r4v1r12t1r64A{c}32t/2A32>v6c2<v1t4A{cccc}7ccc
+|idr124o1(c>2c)4(c>2c)4v1r12t1A{c}32v2A32v3A32t/2A32<t4vA{aaaa}8
+|idr124r4r4v1r12t1r64A{c}32t/2A32>v6c2<v3t4A{cccc}7ccc
