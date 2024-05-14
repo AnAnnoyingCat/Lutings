@@ -1,0 +1,21 @@
+//Thunderstruck - AC/DC
+//Author: JustAnAnnoyingCat
+//#lute 532
+
+//ibv3s7Z{<b>A{e'<b>g'<b>}8B{e<b>g<b>}8A8B8C{b<b>a<b>a'<b>a<b>a'<b>g'<b>a'<b>e<b>  g'<b>e'<b>e<b>e'<b>e<b>e'<b>e<b>e'<b>}8}
+//|ilv3Z
+//|ils7Y{rA{e'rg'r}8B{ergr}8A8B8C{brara'rara'rg'ra'rer  g're'rere'rere'rere'r}8}//|ikv6s7Y
+
+//Male Choir (AAAA)
+//|ieo2t2r129A{r10b>d<b>d4edg'4<b4}8
+
+//THUNDER (The Bean)
+//|ito3t4r257bbr24bbr24(<bb)(<bb)r24(<bb)(<bb)r24
+
+//hi-hat
+//|idv1t2r1A{acacacac}24
+//Drum
+//|ido0r257A{(ac)4(ac)4r4(ac)8(ac)8(ac)4}2B{(aba)4(aba)4r4(aba)8(aba)8(aba)4}2
+//Thoroughly optimized Luting: 
+#lute 532 ibv3s7Y{X{<b>}A{W{e'}XV{g'}X}8eXgB{XeX}C{gBgB}3g}2Z{XbXaXU{a'}XaXUXVXUBVXWBWBWBW}8X|ilv3Y2Z8X|ils7B{C{rWrV}8D{rer}E{gD}7g}2A{rbrarUrarUrVrUDVrWDWDWDW}8r|ieo2t2r129A{r10b>dXd4edg'4<b4}8|ito3t4r257bbB{r24}bbA{BC{(<bb)}2}2B|idv1t2r1A{B{acac}3}16|ido0r257B{D{(ac)4}2r4F{(ac)8}2D}2A{C{(aba)4}2r4E{(aba)8}2C}2
+//Luting length: 313
