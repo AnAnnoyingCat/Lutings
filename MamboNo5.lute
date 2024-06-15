@@ -1,0 +1,29 @@
+//Mambo No 5 - Lou Bega
+//Author: JustAnAnnoyingCat
+//#lute 1408
+
+//Singer 1 (Bean)
+//itt2r8r5b'3b'5b'3b'5b'3  >c5c3<b'5r3b'5>c3<r5b'11  r5b'3b'5b'3 b'5b'3  >c5c3<b'5r3b'5>c3<r5b'11  r5b'3>e'5e'3d5d3  c8<b'5r3b'5>c3<r5b'11  r5b'3b'5b'3b'5b'3  >c8<b'5r3b'5>c3<r5b'11  
+//v8s3r5b'3b'5b'3b'5b'3  >c5<r3b'5r3b'5>c3<r5b'8  b'3b'5b'3b'5b'3b'5b'3  >c8<b'5r3b'5>c3<r5b'11  r5b'3>e5e3d5d3  c5c3<b'5r3b'5>c3<r5b'11  r5b'3>e5e3d5d3  c8<b'5r3g5f3r5e'11
+
+//Singer 2 (Cat)
+//|ims7t2v5r256  r8r5>c3c5c3c5c3   d5r3c5r3c5d3r5c8  c3c5c3c5c3c5c3  d8c5r3c5d3r5c11  r5c3f5f3e5e3  d5d3c5r3c5d3r5c11  r5c3f5f3e5e3  d8c5r3<a5g3r5f11
+
+//Bar. Sax. (Horn)
+//|ibv4Z{s2t2r32  d5r3r5f3a5g3r5a3  d5r3f5a3r5g8a3  c5r3r5e3a5g3r5a3  c5r3e5a3r5g8a3  d5r3r5f3a5g3r5a3  d5r3f5a3r5g8a3  c5r3r5e3a5g3r5a3  c5r3e5a3r5g8a3
+//d5r3r5f3a5g3r5a3  d5r3f5a3r5g8a3  c5r3r5e3a5g3r5a3  c5r3e5a3r5g8a3  d5r3r5f3a5g3r5a3  d5r3f5a3r5g8a3  c5r3r5e3a5g3r5a3  }
+//|ifv2<Z
+//|ihv3Z
+
+//Tba
+//|ifo2s7r32 f5r3r8f5r3r5f3  r5f3r5f3f5r3r8  e'5r3r8e'5r3r5e'3  r5e'3r5e'3e'5r3r8  f5r3r8f5r3r5f3  r5f3r5f3f5r3r8  e'5r3r8e'5r3r5e'3  r5e'3r5e'3e'5r3r8
+//f5r3r8f5r3r5f3  r5f3r5f3f5r3r8  e'5r3r8e'5r3r5e'3  r5e'3r5e'3e'5r3r8  f5r3r8f5r3r5f3  r5f3r5f3f5r3r8  e'5r3r8e'5r3r5e'3  r5e'3r5e'3e'5r3r8
+//Perc.
+//Hi-Hat
+//|idv2r24c8A{c5c3c5c3c5c3c5c3}7 B{c8/3}12  v4 C{r8c8r8c8}7 B6  c8  o5a4
+//Drums
+//|idt8r32A{o0ao2ao0ao2a}7  o0r5a3r5a3a8a8  v5o1B{(<ac)5c3c5c3(<ac)5c3c5(<ac)3  c5(<ac)3c5(<ac)3(ac)5c3c5c3}3  (<ac)5c3c5c3(<ac)5c3c5(<ac)3  <r5a3r5a3a16
+
+//Thoroughly optimized Luting: 
+#lute 1408 itt2P{r8}W{r5}D{b'3}B{E{b'5}D}2>Y{S{c5}O{c3}}A{<C{EV{r3}E>O<W}b'11WD}B2>YA>N{e'5}M{e'3}R{d5d3}Q{c8}AB2>Q<Cb'11v8s3WDB2>S<VCb'8DB3>QF{A>e5e3R}YFQ<EVg5f3We'11|ims7t2v5r256PW>OY2J{d5V}B{SVSd3W}QOY3d8A{Bc11WOI{f5}f3e5e3}RAd8SV<L{a5g3}Wf11|ibv4U{s2t2H{r32}}Z{A{JK{Wf3}LT{Wa3}JIB{a3Wg8a3}SVWe3LT}X{SVe5B}A}XZ|ifv2<UZXZ|ihv3UZXZ|ifo2s7HA{IVPIVK3IVPNVPNVWMWMWMNVP}4|idv2r24QY28A{c8/3c8/3}6v4B{PQPQ}7A3Qo5a4|idt8HB{F{o0ao2a}2}7o0T2a8a8v5o1A{C{E{(<ac)5O}YED{S(<ac)3}}D2(ac)5OY}3C<T2a16
+//Luting length: 486
