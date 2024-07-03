@@ -1,0 +1,52 @@
+#lute 640
+
+//Lute (Main Melody)
+ils6>  r6g'f  e2r6  <(a'd)r3(ea')r3  (ea)r>er5  r6g'f  e2r6  <(a'd)r3(da')r3  (d'a)r7  
+//Second half of intro
+(<aa)r6r3/4  >b/4a2r5r3/4<  b/4a2r5r3/4  >b/4a2r5r3/4<  b/4a2r1r3/4b/4a2r1r3/4   b/4a2r1r3/4b/4a2r1r3/4  >b/4a2r1r3/4b/4a2r1r3/4   b/4a2r2r3/4b/4a2r2 r4
+//Energy levels up :D
+t2  <a>eeg'7/4  g'/4eddg'  gb>d<b  baa4  b<aa>b7/4  b/4addg'7/4  g/4g'e7/4g/4g'e7/4  g/4g'e7/4g/4g'e
+Z{<a>eeg'7/4  g'/4eddg'  gb>d<b  baa4  b<aa>b7/4  b/4addg'7/4  t1g/4g'rer3/4g/4g'rer  <(g'e)r(g'd)r(g'd)4t2
+//Buildup
+r16  (aa)(ae)(ag')(ag)  (ag')(ae)(ad)4  r16  (ea')(ea)(eb)(ed')  (g'e)(g'd)(g'd)4  
+r16  (aa)(ae)(ag')(ag)  (ag')(ae)(ad)4  r16  (ea')(ea)(eb)(ed')  (g'd)a(gd')a  (g'd)a(gd')a  (g'd)a(gd')a 
+v7(dd)3(dd)1(dd)3(dd)1  (dd)3(dd)1(dd)3(dd)1  (dd)3(dd)1(dd)3(dd)1  >(dd)(cc)<(bb)(aa)  vY{
+g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>t1grg'rer  drcr<brar  t2g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>d<ab  g4d4}X{
+g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>t1grg'rer  drcr<brar  t2g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>d<ab  g4v3(gbg)4
+}}
+
+//Cat (Sub 1)
+|ims3t2r293  (g'g')4(dd)4<  (bb)4(aa)4  r48  >(g'g')4(dd)4<  (bb)4(aa)4 > r16  (g'd)a(gd')a  r8
+v7(dd)3(dd)1(dd)3(dd)1  (dd)3(dd)1(dd)3(dd)1  (dd)3(dd)1(dd)3(dd)1  r24  v
+  >d4d4  de<b>c<  r16  r>t1gr3er3  cr3<ar  t2g8  a>c<ba  >r16<  a4a4  a>c<ba  g>d<ab  g4r4
+//Ensemble Time
+g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>t1grg'rer  drcr<brar  t2g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>d<ab  v2g4(gbg)4
+//Bean (Sub 2)
+|its7t2r261<  >(g'g')4(dd)4<  (bb)4(aa)4  r48  >(g'g')4(dd)4<  (bb)4(aa)4  r40 > (g'd)a(gd')a  r8  (g'd)a(gd')a
+v7(dd)3(dd)1(dd)3(dd)1  (dd)3(dd)1(dd)3(dd)1  (dd)3(dd)1(dd)3(dd)1  r8  v
+g8  a>c<ba  r16  a4a4  a>c<ba  g>t1rrg'r3  dr3<br3  t2r16  >d4d4  de<b>c<  r28d4
+//Ensemble Time
+g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>t1grg'rer  drcr<brar  t2g8  a>c<ba  >d4d4  de<b>c<  a4a4  a>c<ba  g>d<ab  v2g4(gbg)4
+
+//Bass (Sub Melody)
+|ibo2v5  r6g'f  e2r6  (eb)r3(ed)r3  (ad')r(ad')r5  r6g'f  e2r6  (eb)r3(eb)r3  ar7  r69 
+t2  a>(gad')(gad')(gad')  d(g'ad)(g'ad)(g'ad)  g(gbd)(gbd)(gbd)  d(g'ad)(g'ad)(g'ad)  <a>(ga)(ga)(ga)  d(g'ad)(g'ad)(g'ad)  e(a'bd)(a'bd)(a'bd)  a(ad'g)(ad'g)(ad'g)
+   <a>(gad')(gad')(gad')  d(g'ad)(g'ad)(g'ad)  g(gbd)(gbd)(gbd)  d(g'ad)(g'ad)(g'ad)  <a>(ga)(ga)(ga)  d(g'ad)(g'ad)(g'ad)  <a>(gad')(gad')(gad')  (da)1r1(da)1r1(da)4
+v7  (g'g')4(dd)4<  (bb)4(aa)4  a>(gad')(gad')(gad')  >(dg')(dg')(dg')4<  (g'g')4(dd)4<  (bb)4(aa)4  (aeg)(aeg)(aeg)(aeg)  (adg')(adg')(adg')4>
+    (g'g')4(dd)4<  (bb)4(aa)4  a>(gad')(gad')(gad')  >(dg')(dg')(dg')4<  (g'g')4(dd)4<  (bb)4(aa)4  (aeg)(aeg)(aeg)(aeg)  (>dg'a)4(aeg)4  (>dg'a)4(aeg)4  (>dg'a)4(aeg)4
+	v>(dd)3(dd)1(dd)3(dd)1  (dd)3(dd)1(dd)3(dd)1<  (dd)3(dd)1(dd)3(dd)1  >(dd)(cc)<(bb)(aa) 
+g>(gbd)d(gbd)  g'(ac)d(ac)  g(bd)d(bd)  g(bd)d(bd)  g'(ac)d(ac)  g'(ac)d(ac)  g(bd)d(bd)  (dd)(cc)<(bb)(aa)
+g>(gbd)d(gbd)  g'(ac)d(ac)  g(bd)d(bd)  g(bd)d(bd)  g'(ac)d(ac)  g'(ac)d(ac)  g(bd)d(bd)  (dgbd)4r4<
+g>(gbd)d(gbd)  g'(ac)d(ac)  g(bd)d(bd)  g(bd)d(bd)  g'(ac)d(ac)  g'(ac)d(ac)  g(bd)d(bd)  (dd)(cc)<(bb)(aa)
+g>(gbd)d(gbd)  g'(ac)d(ac)  g(bd)d(bd)  g(bd)d(bd)  g'(ac)d(ac)  g'(ac)d(ac)  g(bd)d(bd)  (dgbd)4(<gg)
+
+//Add Ons
+|ibv5t2r197Z
+|ilt2r197Z
+|ivs8v4t2r437Yv8X
+
+//Your Multilutes Sir: 
+//Multilute 1:
+#lute m 640 ils6>P{r6g'fe2r6}J{<(a'd)}N{r3}(ea')N(ea)r>er5PJN(da')N(d'a)r7(<aa)r6F{r3/4}>D{b/4a2}r5F<Dr5F>Dr5F<B{Dr1F}4>B2Dr2FDr2r4L{t2}C{<a>eeg'7/4g'/4eddg'gb>d<bbaa4b<aa>b7/4b/4addg'7/4}E{g/4g'}H{e7/4E}3eZ{Ct1EreFErer<(g'e)rI{(g'd)}r(g'd)4LA{M{r16}(aa)(ae)(ag')(ag)(ag')(ae)(ad)4M(ea')(ea)(eb)(ed')}(g'e)I(g'd)4AT{Ia(gd')a}3v7V{G{(dd)3(dd)1}2}3>S{(dd)(cc)<(bb)(aa)}vY{W{g8R{a>c<ba}Q{>d4d4de<b>c<}O{a4a4Rg>}t1grg'rerdrcr<brarLg8RQOd<ab}g4d4}X{Wg4v3K{(gbg)4}}}|ims3Lr293U{(g'g')4(dd)4<(bb)4(aa
+//Multilute 2:
+#lute )4}r48>U>MTr8v7V3r24vQMr>t1gNeNcN<arLg8R>M<Od<abg4r4Wv2g4K|its7Lr261<>Ur48>Ur40>Tr8Tv7V3r8vg8RMOt1rrg'NdN<bNLMQr28d4Wv2g4K|ibo2v5P(eb)N(ed)N(ad')r(ad')r5P(eb)N(eb)Nar7r69LB{a>D{(gad')}3dE{(g'ad)}3gI{(gbd)}3dE3<a>(ga)(ga)(ga)dE3}e(a'bd)(a'bd)(a'bd)a(ad'g)(ad'g)(ad'g)<B<a>D3(da)1r1(da)1r1(da)4v7C{Ua>D3>(dg')(dg')(dg')4<UJ{(aeg)}4}(adg')(adg')(adg')4>CF{(>dg'a)4(aeg)4}3v>V2<V>SA{g>IdIG{g'(ac)d(ac)}H{g(bd)d(bd)}2G2H}SA(dgbd)4r4<ASA(dgbd)4(<gg)|ibv5Lr197Z|ilLr197Z|ivs8v4Lr437Yv8X
