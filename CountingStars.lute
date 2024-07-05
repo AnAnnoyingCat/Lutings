@@ -1,0 +1,18 @@
+#lute 480
+
+itZ{
+		t16/7 g'32/7a'32/7b32/7a'32/7  g'a'g'8/7ea'72/7  rg'g'a'8/7a24/7a'g'e  a'32/7d'32/7e48/7d'  
+        g'32/7a'32/7b32/7a'32/7  g'a'g'8/7ea'72/7  rg'g'a'aa'g'8/7e24/7  a'g'g'ee32/7r32/7  r32/7rd'a'g'g'e48/7  red'64/7  t2
+	}
+	r64 
+	a'12b3a'1  g'4e4r4b3a'1  g'4e4r4b3a'1  g'4e4r2a'a'a'
+	t1a'6a'g'a'a'ra'5  a'2a'2e3eb2bg'5  a'2g'2e2d'2a'2g'2g'4  r2a'g'e2d'2a'2g'2g'4  a'4r2a'g'a'a'ra'5  a'4a'3a'b2bg'5  a'2g'2e2d'2a'2g'2g'4  r2a'g'e2d'2a'2g'2g'4
+
+|ibv4o2t16/7
+	A{d'a'>d'<a'd'a'>d'<a'  eb>e<beb>e<b  <b>b>e'<b<b>b>e'32/7< <a>a>d'<a<a>a>d'<a}2
+	<a>a>d'<a<a>a>d'<a  r128/7  t2
+	A{d'>d'<}4A{<e>e}4A{<b>b}4A{<a>a}4 
+	Y{B{d'(ea')1(ea')1}4B{e(a'b)1(a'b)1}4B{<b>(e'g')1(e'g')1}4B{<a>(d'e)1(d'e)1}4
+	t8C{(d'ea')(d'ea')  (<bea')(<bea')  (<be'g')(<be'g')  (<ad'e)(<ad'e)}2
+	}
+|ilv0ZvA{d'e}4A{<b>e}4A{<b>e'}4A{<a>d'}4v5Y
