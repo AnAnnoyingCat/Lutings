@@ -1,0 +1,24 @@
+//Superstar Saga Battle Theme
+//#lute 552
+
+//Main melody Bean
+ //its7Y{A{a'ra'ra'a'rbrbrbrb'b'r  a'ra'ra'a'rbrbrbr>e'e'r<}2 B{rfd'rg'rra'r3brb'b'r  rfd'rg'rra'rbrbr>e'e'<r  rfd'rg'rra'ra'ra'g're'r  frd'<b4>rrbrbr>e'e'<r}}  A2  B
+//|its4X{A{frfrffrg'rg'rg'rg'g'r  frfrffrg'rg'rg'rg'g'r}2     B{<a'>d'<a'>re're'fr3a'rg'g'r  <a'>d'<a'>re're'fra'ra'rbbr  <a'>d'<a'>re're'frfrfe'r<b>r  d'r<a'f4>rra'ra'rbbr}} s6 A2  B
+//|its2A{r32}2  B{r32  r7<brbrbb'rg'r  a'rfr13>} s5 A2 B
+
+//Supportive Cat
+//|ims4v8r128Y
+//|ims3v8r128X
+
+//+1 instrument
+//|iir128v5Y
+//|iir128v5X
+//Perc
+//|ido0t4A{aaaaaaaa2a2}8 
+//Secondary Melody
+//|ibZ{o2d'4r2<a'2>d'14<g'2b8>  A{d'4r2<a'4g'2g'a'brd'2>d'd'r2<a'4g'2g'4>}7}
+//|ics3v4Z
+
+//Thoroughly optimized Luting: 
+#lute 552 is<s7Y{A{X{T{a'}r}2TXV{br}3}B{P{b'}2rA>U{e'}2r<}ABC{S{rf}R{d'}r}W{g'r}rTr3VP2rCWrXD{V2>U2<r}CWrX2TWUSrR<b4>rrD}2|is<s4Z{A{fS2frW3g'W}4B{<T>R<T>rUrUf}r3Xg'WBrX2bVBS2Ur<b>rRr<Tf4>rrX2bV}s6Z|is<s2A{B{r32}3r7<V2bPrWXfr13>}s5A|ims4Q{v8r128}Y|ims3QZ|ido0t4A{aaaaaaaa2a2}8|ibo2d'4r2<a'2>d'14<g'2b8A{>d'4B{r2<a'4g'2}g'TVd'2>R2Bg'4}7>
+//Luting length: 332
