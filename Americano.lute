@@ -1,12 +1,33 @@
 #lute 504
 
 //Trumpet
-ilZ{(ad)(b'e')2(ad)t4/6(gc)(g'b')(e'a)(dg)(cf)(<b'e')t1(<ad)2r2(b'd)2r2
+ilZ{X{(ad)(b'e')2(ad)t4/6(gc)(g'b')(e'a)(dg)(cf)(<b'e')t1(<ad)2r2(b'd)2r2
 r16  r6dde'dfe'd2r2  r16  r6(gb')(gb')(ac)(gb')(b'd)(ac)(gb')2r2  r48  r2de'fe'fe'd<a2b'>c<b'>cd'  d2r2>d2<r10}
+W{g2r2g2r2gr2dr4  grgrg2r2grggr4  g2r2g2r2gr2dr4  grgrg2r2gr2gr2ag  g2r2g2r2gr2dr4  grgrg2r2grggr4  g2r2g2r2gr2dr4  g2r2g2r2g2}}
 |ihv8Z
+|ibv0Xv>W
 //Singing
-|itr16c2de'f2e'd3f2e'2d2  d2c2r12  c2de'f2e'd3f2e'2d2  d2c2r12  d2ddd2e'f3d2e'2f2  f2e'6r8  d2ddd2e'2d2c2<b2>c2  d2r14
+|itr16c2de'f2e'd3f2e'2d2  d2c2r12  c2de'f2e'd3f2e'2d2  d2c2r12  d2ddd2e'f3d2e'2f2  f2e'6r8  d2ddd2e'2d2c2<b2>c2  d2r14  r10e'2e'de'd  c4r12  r96  r10e'2e'de'd  c4
 
 //Bass
-|icv2Y{o2t2>d<r10gr  grb'rar>cr<  b'rgrb'rgr  ar>cr<ar>cr<  b'rgrb'rg'r  frarfrar  b'rgrb'rgr  ar>d'r<ar>d'r  dr14  }
-|ibv4Y
+|ifo2v2Y{t2>d<r10gr  grb'rar>cr<  b'rgrb'rgr  ar>cr<ar>cr<  b'rgrb'rg'r  frarfrar  b'rgrb'rgr  ar>d'r<ar>d'r  dr14  }
+|ibo2v4Y
+
+//chorus upper
+|isv6r160<A{r2e'r3e'r3e'r3e'r}7  r2e'r3e'rr8
+//chorus lower
+|ihv6r160<A{gr3dr3gr3dr3}7  gr3dr3gr3r4
+
+//Percussion
+//Bass-drum
+|ido0t4aaa>c<  r144  A{a(ac)a(ac)}7  a(aca)a
+|idv4<t4r16  r144  A{rara}7  ra
+//Hi-hat
+|idv1t2r16 B{cccccccc}7 r32  A{cacacaca}7  cacac
+
+
+//Your Multilutes Sir: 
+//Multilute 1:
+#lute m 504 ilZ{(ad)(b'e')2(ad)t4/6(gc)(g'b')(e'a)(dg)(cf)(<b'e')t1(<ad)2V{r2}(b'd)2VR{r16}r6ddU{e'}dfUT{d2}VRr6C{(gb')}2S{(ac)}C(b'd)S(gb')2Vr48VdUfUfUd<a2P{b'}>c<P>cd'TV>T<O{r10}}Y{A{B{g2V}2D{gVdr4}N{gr}2Bg}E{rggr4}AVgVagAEB2DB2g2}|ihv8ZY|ibv0Zv>Y|itRA{c2dUf2Ud3f2C{e'2}T2c2r12}2TddTUf3TCf2f2e'6r8TddTCTc2<b2>c2Tr14B{OCUdUdc4}r12r96B|ifo2v2X{t2>d<ON2PW{rar}B{>cr<}A{PrNPr}gWBarBAg'rfWfWAgW>d'r<ar>d'rdr14}|ibo2v4X|isQ{v6r160<}A{VB{Ur3}3Ur}7VBUrr8|ihQA{gr3dr3}15gr3r4|ido0t4aaa>c<r144A{aSaS}7
+//Multilute 2:
+#lute a(aca)a|idv4<t4Rr144A{Wa}7ra|idv1t2RB{ccccccc}8r32A{cacaca}10c
