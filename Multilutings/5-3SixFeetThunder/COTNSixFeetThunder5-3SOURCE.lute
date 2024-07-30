@@ -1,0 +1,30 @@
+#lute 620
+
+//main voice
+ils4Z{r64 (gb')dad b'dgd b'dad b'dgd   (g'a)dgd adg'd adgd adg'd   (e'c)e'b'e' >c<e'ge' >c<e'b'e' >c<e'ge'   (da)dgd adg'd (g'a)dgd adg'd
+g2<gb' >dg'gb' (db')gb'>d' dgab'   <(aa)2<b'>d' dgab' (dd)2dg' gb'>cd<   (e'e')2<gb' >e'gb'>e'< (gg)2e'g' gb'>e'g<
+(aa)2dg' gb'>dg (dd)2<<gb'> dg'gb'
+}W{
+gd>d<d >c<db'd adgd g'dgd    adb'd adgd g'de'd d2c2    d2>d<d >c<d>e'<d >d<d>c<d b'd>d<d    >c<db'd add2 >c<db'd adgd
+(e'e')2<gb'> e'gb'>e'< (dd)2<a>d g'a>cd<   (gg)2ga (g'g')2eg' (cc)2cd <(gg)2b'>c} g14g'e g'16
+
+|ilv0ZvW
+|ios3ZW g14g'e g'16
+|iov0ZvW
+|ibZW
+
+//lower voice
+|ibs5v8Y{o2A{g2g4ggg2g2g4}4A2B{e'2e'4e'e'e'2e'2e'4}D{d2d4ddd2d2d4}A2Bd2d4dd<b'2b'2b'4  
+A{(gg)2(gg)4(gg)(gg)(gg)2(gg)2(gg)4}4 
+>(e'e')2(e'e')4(e'e')(e'e')(dd)2(dd)2(dd)4   (e'e')2(e'e')4(dd)(dd)(cc)2(cc)2(<b'b')4
+(b'b')2(b'b')4(b'b')(b'b')(b'b')2(b'b')2(b'b')2(aa)(a'a') (aa)2(aa)4(aa)(aa)(aa)2(aa)2(aa)4
+}
+|icv4Y
+
+//Perc
+|ido2t2A{aaaaaaaa}20
+|idv2t2A{cccccccc}20
+|idX{o2A{a4(ac)6a2(ac)4}20}
+|idv4X
+
+

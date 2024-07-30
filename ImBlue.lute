@@ -1,0 +1,18 @@
+//#lute 1016
+
+ //iiZ{s4t8a    B{A{b'g  >c<a  rb'>  e'd<}3  b'g  af   rf}   rg}s3v6BrgB
+//|iiY{s6t8r12  B{A{db'  fb'8  g>d  <g>c<}3  db'  cg8  cg8}  fa}s4v6BfaB
+//|iir8o3A{g16  f12  e'20  c16}11 g16  f12  e'20
+//|ibv8s6t8 r264  A{b'g  >c<a  rb'>  e'd<}3  b'g  af   rf rg  A3 b'g  af   rf 
+//|ibv8s7t8 r268  A{db'  fb'8  g>d  <g>c<}3  db'  cg8  cg8 fa A3 db'  cg8  cg8 
+//|itt4r252 fga   A{b'dgb'  >c<fab'8  gb'>d  e'<g>dc<}3  b'dgb'  acfg8  cfg8  fga A{b'dgb'  >c<fab'8  gb'>d  e'<g>dc<}3  b'dgb'  acfg8  cfg8
+//|ivt4v6s8r508 fga   A{b'dgb'  >c<fab'8  gb'>d  e'<g>dc<}3  b'dgb'  acfg8  cfg8
+//|idX{t8o0r264 A{aaaa}8 }A7
+//|idt8v6r520<A{rara}7
+//|idt8v2r520A{cccc}7
+
+
+
+//Thoroughly optimized Luting: 
+#lute 1016 iis4U{t8}aX{A{V{b'}gT{>c<}arV>e'd<}3Vgafrf}rgs3v6XrgX|iis6Ur12Z{A{dVfb'8g>d<gT}3dVcg8cg8}fas4v6ZfaZ|iir8o3A{B{g16f12e'20}c16}11B|ibv8s6Ur264XrgX|ibv8s7Ur268ZfaZ|itt4r252S{fga}Y{VdgVTfab'8gV>de'<g>dc<}3W{VdgVacfg8cfg8}SY3W|ivt4v6s8r508SY3W|idUo0r264A{aaaaaa}10|idUv6r520<A{rara}7|idUv2r520A{cccc}7
+//Luting length: 307
