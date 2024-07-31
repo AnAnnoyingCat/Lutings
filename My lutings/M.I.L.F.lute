@@ -1,34 +1,34 @@
 //M.I.L.F. - FNF
 //Author: JustAnAnnoyingCat
-//#lute 720
+#lute 720
 
 //Mom
-//imZ{t2b4b4b1>d'1d1e1g'<b4b4b>d<b>d'<bb4b4b1>d'1d1e1g'<b4b4b>d<b>e1<b1a}r64Y{A{>d12de6r1a'1a4g4g'4g1g'1e4g'4d4}edd'deged<}r64
-//X{rb1>d'1d<b>g'r1g'3e4dd'der1er1<ar1a1b1>d'1d3<b1>g'r1g'a5gg'deddd'<}r64W{D{b12b>d'd4d'4<b4>d'1<b1a>g'ededd'dd'<b>d'<ba}b4a4}r64V{Adedd'<bg'd<b>}r64
-//U{B{edd'edd'C{e1d1d'}}2>C8<}r64
+imZ{t2b4b4b1>d'1d1e1g'<b4b4b>d<b>d'<bb4b4b1>d'1d1e1g'<b4b4b>d<b>e1<b1a}r64Y{A{>d12de6r1a'1a4g4g'4g1g'1e4g'4d4}edd'deged<}r64
+X{rb1>d'1d<b>g'r1g'3e4dd'der1er1<ar1a1b1>d'1d3<b1>g'r1g'a5gg'deddd'<}r64W{D{b12b>d'd4d'4<b4>d'1<b1a>g'ededd'dd'<b>d'<ba}b4a4}r64V{Adedd'<bg'd<b>}r64
+U{B{edd'edd'C{e1d1d'}}2>C8<}r64
 
-//Xr64
+Xr64
 
-//Dt4babg'eg'agg'eg'dede<bba
+Dt4babg'eg'agg'eg'dede<bba
 
 //Boyfrend
-//|itr64<Zr64Yr64Xr64Wr64Vr64>U<
+|itr64<Zr64Yr64Xr64Wr64Vr64>U<
 
-//r64X
+r64X
 
-//Db4a4Db4a4
+Db4a4Db4a4
 
 //Drums
 
 //Bass Drum - Measures 1-8, 16 buildup, 17-24, 25-31, 32 rapidfire, 33-36 break, 37-40 (cowbell), 41-46 Full perc, 47-48 break, 49-64 normal, 52 dududum
-//|idt4o0A{aaaa}8r112B{a2}8A3aaaa2a1a1A4A7B8r64v2o5A4vo0C{(ac)}24r32  A3aaaa2a1a1A4  A3aaaa2a1a1A4
+|idt4o0A{aaaa}8r112B{a2}8A3aaaa2a1a1A4A7B8r64v2o5A4vo0C{(ac)}24r32  A3aaaa2a1a1A4  A3aaaa2a1a1A4
 //Hi-Hat Closed - Measures 1-8, 13-17, 17-19, 20 with dududum, 21-24, 25- 31, 32 rapidfire, 33-40 weird, 41-48 Full perc., 49-64 normal
-//|idt4v1r2A{cccc}8r64A4A4A4A7B{c2}7C{rc2r2c2c6}8v3A8v1r2A8
+|idt4v1r2A{cccc}8r64A4A4A4A7B{c2}7C{rc2r2c2c6}8v3A8v1r2A8
 //High Pom Drum - Measures 4-8, 17-23, 24 pause, 25-31, 32 rapidfire, 33-40 weird, 41-46 Full perc., 47-48 break, 49-64 normal ,
-//|idt4<v4r64A{rcrc}4r64r64A7r16A7B8B{cr2c2r2c6}8C{cccc}6r32A8
+|idt4<v4r64A{rcrc}4r64r64A7r16A7B8B{cr2c2r2c6}8C{cccc}6r32A8
 //Quiet percussion sound - 1-32, 33- break, 41-48 Full perc.
-//|ipt4v2A{aaaa}32r128A16
+|ipt4v2A{aaaa}32r128A16
 
 //Un(!)-safely optimized luting; make sure it compiles first: 
-#lute 720 imZ{t2B{Q{b4}2C{b1>d'1}d1e1D{g'}<Q2b>dE{<b}>}F{d'}EBe1H{<b1}aA{T{r64}>d12de6G{r1}a'1a4g4g'4g1g'1e4g'4d4}U{I{ed}F}degI<TrCdE>DGg'3e4dFdeGeG<aGa1Cd3H>DGDa5gDdIdF<TW{b12b>Fd4d'4<Q>d'1Ha>DIUdFE>FEa}O{Qa4}AdUEDdE>T}U2V{e1d1F}N{U2V>V8<}TWM{t4}babDeDagDeDdIeEba|itT<Z>U2VN<WOWO|idMo0Y{R{aa}7}2R2r112B{a2a2}4C{Yaa2a1a1}Y3RB4Tv2o5YRvo0A{(ac)(ac)}12r32CYR|idMv1L{r2}X{B{cccc}2}4TX9BS{P{c2}2}3PA{rPLPc6}8v3X4v1LX4|idM<v4TA{C{rc}7}CT2A2r16A2S4B{cLPLc6}8X3r32A2C2|ipMv2Y9Rr128Y4R4
+//#lute 720 imZ{t2B{Q{b4}2C{b1>d'1}d1e1D{g'}<Q2b>dE{<b}>}F{d'}EBe1H{<b1}aA{T{r64}>d12de6G{r1}a'1a4g4g'4g1g'1e4g'4d4}U{I{ed}F}degI<TrCdE>DGg'3e4dFdeGeG<aGa1Cd3H>DGDa5gDdIdF<TW{b12b>Fd4d'4<Q>d'1Ha>DIUdFE>FEa}O{Qa4}AdUEDdE>T}U2V{e1d1F}N{U2V>V8<}TWM{t4}babDeDagDeDdIeEba|itT<Z>U2VN<WOWO|idMo0Y{R{aa}7}2R2r112B{a2a2}4C{Yaa2a1a1}Y3RB4Tv2o5YRvo0A{(ac)(ac)}12r32CYR|idMv1L{r2}X{B{cccc}2}4TX9BS{P{c2}2}3PA{rPLPc6}8v3X4v1LX4|idM<v4TA{C{rc}7}CT2A2r16A2S4B{cLPLc6}8X3r32A2C2|ipMv2Y9Rr128Y4R4
 //Luting length: 477
