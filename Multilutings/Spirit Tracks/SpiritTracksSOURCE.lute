@@ -6,7 +6,12 @@ r14b2  >g6e2a6ga  b6>d2<b3a3b2  d8r8  r14<b2>  g4r2e2a4r2ga  b6>d2<b3a3g2  >d8r8
 r14<b2  (gg)6>e2<(aa)6(gg)(aa)  (bb)6>>d2<(<bb)3a3<(bb)2  (dd)8r8  r14b2  >g6e2a6ga
 b6>d2<b3a3g2  (ee)12r2(dd)(cc)  <(bb)8(aa)4(b'b')4  (bb)12r2(aa)(gg)  
 //22
-
+(ee)8(gg)4(bb)4  >(d'd')4r4(g'g')6<(bb)(aa)  (bb)4>(d'd')4(ee)4a'4  <(aa)4r10>ab
+//26
+(fa')4r4d'4(ea')4  (g'a)8r3<(a'a')3(g'g')2  (>ea')8(d'd')4(ee)4  (bg')8r3(<a'a')3(dd)2
+//30
+(d'ad')8(cc)4(d'd')4  (ag'a)8r3(a'a')3(g'g')2  (a'ea')8(d'd')4(ee)4  (bdb)8r8  
+r8(bb)3(aa)3(gg)2  (g'eg')12r2>e2  <(g'e'g')8
 }
 |ioZ
 |ibv8Z
@@ -22,7 +27,7 @@ b6>d2<b3a3g2  (ee)12r2(dd)(cc)  <(bb)8(aa)4(b'b')4  (bb)12r2(aa)(gg)
 //30
 (g'g')6a10  (dd)6>d10<  a6>d'10<  (<gg)6d10
 //34
-(<aa)6d'10  b6r10  b4
+(<aa)6d'10  b6r10  b8
 
 //left
 |ilv8Y{o2s4r32  A{r2 gb r g'gb eg'gb r g'gb}4  B{r2 gb r dgb dg'gb r dgb}2 A2
@@ -39,6 +44,9 @@ r2 de r d'de <a>d'de r d'de  r2 g'b r e'g'b <b>e'g'b r dg'b
 
 }
 |ibv5Y
+//Violin extra
+|ivt4r384>g'dd'<a  baa'a'  a8r8  a'8r8  g'8r8 
 //Perc
-|idv4s4r32A{(ca)4c4a4a2cc/2c/2}27
+|idv4s4r32A{(ca)4c4a4a2cc/2c/2}33 a4
+
 
