@@ -1,29 +1,44 @@
-//#lute 560
+#lute 560
 
 //Main
-//igZ{<(aea')6>g'e<(be')4b4>(ceb)6ag(<adg')4r2(dd)2(ee)8r8
-//r14b2  >g6e2a6ga  b6>d2<b3a3b2  d8r8  r14<b2>  g4r2e2a4r2ga  b6>d2<b3a3g2  >d8r8<
-//r14<b2  (gg)6>e2<(aa)6(gg)(aa)  (bb)6>>d2<(<bb)3a3<(bb)2  (dd)8r8  r14b2  >g6e2a6ga
-//b6>d2<b3a3g2  (ee)12r2(dd)(cc)  <(bb)8(aa)4(b'b')4  (bb)12r2(aa)(gg)  (ee)4
-//}
-//|ioZ
-//|ibv8Z
-//|ifv7<Z
+igZ{<(aea')6>g'e<(be')4b4>(ceb)6ag(<adg')4r2(dd)2(ee)8r8
+r14b2  >g6e2a6ga  b6>d2<b3a3b2  d8r8  r14<b2>  g4r2e2a4r2ga  b6>d2<b3a3g2  >d8r8<
+r14<b2  (gg)6>e2<(aa)6(gg)(aa)  (bb)6>>d2<(<bb)3a3<(bb)2  (dd)8r8  r14b2  >g6e2a6ga
+b6>d2<b3a3g2  (ee)12r2(dd)(cc)  <(bb)8(aa)4(b'b')4  (bb)12r2(aa)(gg)  
+//22
+
+}
+|ioZ
+|ibv8Z
+|ifv7<Z
 //Sub
 //right
-//|ils8o2(aa)8(bb)8  (cc)8(dd)6(dd)2  A{(ee)6b10}4  B{(gd)6>d10<}2 A2 C{(bg')6g'10}2 A2 B2 A2
-//(cc)6>c10< <(gg)6>d10  <(bb)6>g'10  (ee)4
+|ils8o2(aa)8(bb)8  (cc)8(dd)6(dd)2  A{(ee)6b10}4  B{(gd)6>d10<}2 A2 C{(bg')6g'10}2 A2 B2 A2
+(cc)6>c10< <(gg)6>d10  <(bb)6>g'10  
+//22
+(ee)6>e10<  (dd)6>d10<  (<aa)6e10  (ee)6>e10<
+//26
+>d'6<a'10  (dd)6>d10<  a6>d'10<  (g'g')6b10
+//30
+(g'g')6a10  (dd)6>d10<  a6>d'10<  (<gg)6d10
+//34
+(<aa)6d'10  b6r10  b4
 
 //left
-//|ilv8Y{o2s4r32  A{r2 gb r g'gb eg'gb r g'gb}4  B{r2 gb r dgb dg'gb r dgb}2 A2
-//C{r2 g'b r <b>g'b <b>g'gb r g'gb}2 A2 B2 A2 r2 g'g r eg'g d'eg'g r eg'g
-//r2 cd r <b>cd <gb>cd <gb>cd  r2 eg' r deg' <b>deg' r deg'
-//}
-//|ibv5Y
+|ilv8Y{o2s4r32  A{r2 gb r g'gb eg'gb r g'gb}4  B{r2 gb r dgb dg'gb r dgb}2 A2
+C{r2 g'b r <b>g'b <b>g'gb r g'gb}2 A2 B2 A2 r2 g'g r eg'g d'eg'g r eg'g
+r2 cd r <b>cd <gb>cd <gb>cd  r2 eg' r deg' <b>deg' r deg'
+//22
+A  r2 ga r g'ga dg'ga r g'ga   r2 ea r d'ea <a>d'ea r d'ea   r2 g'a r d'g'a <d'>d'g'a r d'g'a
+//26
+r2 a'b d'g'a'b d'g'a'b d'g'a'b  r2 g'a r dg'a deg'a r eg'a  r2 de r d'de <a>d'de r g'gb  r2 ab r a'ab ea'ab r a'ab
+//30
+r2 b>d'< r ab>d'< g'ab>d'< r ab>d'<  r2 g'a r dg'a deg'a r eg'a  r2 de r d'de <a>d'de r d'de  r2 d'd r <b>d'd <gb>d'd r <b>d'd
+//34
+r2 de r d'de <a>d'de r d'de  r2 g'b r e'g'b <b>e'g'b r dg'b
+
+}
+|ibv5Y
 //Perc
-//|idv4s4r32A{(ca)4c4a4a2cc/2c/2}19a
-//Your Multilutes Sir: 
-//Multilute 1:
-#lute m 560 igZ{<(aea')6>W{g'}e<(be')4b4>(ceb)6ag(<adg')4X{r2}T{(dd)2}(ee)8A{r8r14b2>g6e2a6B{gab6>d2<b3a3}}b2d8r8C{r14<b2}>g4Xe2a4XBg2>d8r8<CV{(gg)6>}e2<(aa)6(gg)(aa)U{(bb)6>}>d2<(<bb)3a3<(bb)2(dd)8Ag2(ee)12X(dd)(cc)<S{(bb)8}(aa)4(b'b')4(bb)12X(aa)(gg)R{(ee)4}}|ioZ|ibv8Z|ifv7<Z|ils8o2(aa)8S(cc)8(dd)6TA{(ee)6b10}4B{(gd)6>d10<}2A2C{(bg')6g'10}2A2B2A2(cc)6>c10<<Vd10<Ug'10R|ilv8Y{o2Q{s4r32}A{XF{gb}rD{Wg}beH{Db}rH}4B{XFrdFdHrdF}2A2C{XWbrE{<b>}WbEHrH}2A2B2A2XDreDd'eDreDXcdrEI{cd<F>}2cdXG{eWrdeW
-//Multilute 2:
-#lute }EdG}|ibv5Y|idv4QA{(ca)4c4a4a2cc/2c/2}19a
+|idv4s4r32A{(ca)4c4a4a2cc/2c/2}27
+
