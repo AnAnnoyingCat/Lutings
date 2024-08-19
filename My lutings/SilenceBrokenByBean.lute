@@ -1,0 +1,15 @@
+//#lute 400
+ 
+ //its1t2 r25/2 e r24 e< r20 e r7/3 r7/3 r20/1 e r14 e r20/1 e r18/1 e r11/1 e r19/2 e
+//|ims2t2 r12/1 b r25 b r27 b r17/1 b> r16/1 b r19/1 b r133/27 r24/1 b r19 b <r133/27 r9/1 b
+//|its3t2 r13/1 c r15/1 c r18/1 c r17/1 c r133/27 r14/11 r25/2 c r22/1 c r20 c r16 c r12/1 c
+//|ims4t2 r7/3 r18/1 f r27 f r14/11 r9/1 f r12/1 f r25/1 f r27/1 f r17/1 f r19/1 f r27 f
+//|its5t2 r17/1< c r7/3 r9/1 c r21/1 c r21/1 c >r19/2 c r25/1 c r25/2 c r22/1 c r7/3 r26 c
+//|ims6t2 r14 f r19/1 <f r22/1 f r14/11 r9/1 f r15 f >>r14/1 f r22 f r26 f r14/11 r22 f
+//|its7t2 r14/11 r25/1 g r27/1 g r133/27 <r18 g r11/1 g r11/1 g r11 >g <<r20/1 g r21 g r11 g
+//|ims8t2 r14/11 r27 g r25/1 g r26 g r17 g r25/2 g r25 g r133/27 <r9/1 g r18/1 g r16 g
+//|its9t2 r26 g r11 g r20 g r133/27 r10/1< g r9 g r15/1 g r27/1 g r133/27 r21/2 g r20 g
+
+//Thoroughly optimized Luting: 
+#lute 400 its1R{t2}X{r25/2}er24e<K{r20}eW{r7/3}2Q{r20/1}er14eQeV{r18/1}eP{r11/1}eG{r19/2}e|ims2RO{r12/1}br25bJ{r27}bU{r17/1}b>r16/1bN{r19/1}bZ{r133/27}r24/1br19b<ZT{r9/1}b|its3Rr13/1cF{r15/1}cVcUcZY{r14/11}XcM{r22/1}cKcr16cOc|ims4RWVfJfYTfOfS{r25/1}fL{r27/1}fUfNfJf|its5RU<cWTA{cr21/1}2c>GcScXcMcWI{r26}c|ims6Rr14fN<fMfYTfr15f>>r14/1fr22fIfYr22f|its7RYSgLgZ<r18gPgPH{gr11}>g<<Qgr21Hg|ims8RYJgSgIgr17gXgr25gZ<TgVgr16g|its9RIHgKgZr10/1<gr9gFgLgZr21/2gKg
+//Luting length: 451
