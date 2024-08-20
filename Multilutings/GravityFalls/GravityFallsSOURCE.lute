@@ -1,0 +1,31 @@
+#lute 640
+
+//Main non whistle
+iks4Z{t2>  fd<a>dfd<a>d  fc<a>cfc<a>c  ed'<a>d'ed'<a>d'  ed'<a>d'e4a4  r128 W{t4r(ff)(ff)(ff)  (aa)(aa)(gg)(ff)  r(aa)(aa)(aa)  (gg)(aa)(gg)(ff)  r(ff)(ff)(ff)  (aa)(aa)(gg)(ff)  
+r(aa)(aa)(aa)  r>(d'd')(d'd')(d'd')<  r(ff)(ff)(ff)  (aa)(aa)(gg)(ff)  r(b'b')(b'b')(b'b')  (gg)8(>c)8  (aa)8(>d')8
+}}
+|ibs4Z  r16 vr8(dd)8
+|ils3Z  
+|ia>r192v7s2W
+
+//Whistle
+|ig>s6X{r64  (dd)12(ee)4  (ff)16  (aa)6(gg)6(aa)4  (cc)16  (dd)12(ee)4  (ff)8>e8<  (gg)8(aa)8  (gg)8(ff)8 W  t2a>dfaed'a>d'd4} 
+|igs6X
+|ibv6s6X
+
+//Bass guitar
+|ibv5Y{t2o2r64  da>d<a>fd<a>d    <da>f<a>fd<a>d  <f>cfcafcf  <f>cfcafcf  <b'>fb'f>d<b'fb'  <b'>fb'f>d<b'fb'  cg>c<g>ec<gc  ceae>d'<ae<a  da>d<ada>d<a  da>d<adaea  f>cfc<f>cfc<
+f>cfc<f>cfc<  b'>db'd<b'>db'd<  b'>db'd<b'>db'd  cg>c<gcg<b'>g<  a>eae<a>eae<  da>d<adaea  f>cfc<f>cfc<  b'>fb'f<b'>fb'f  cg>c<gcg>c<g  <a>eae<a>ea4  (dad)16
+}
+|icv5Y
+|ilv6Y
+
+//Percussion
+//Clap
+|ids3<A{a6a6a4}3  r16v4  A{a4a4a4a4 a4a2a2a4a4}10 a4a4a4a4
+//Bass
+|ido0r48  (a>2c)4(a>2c)2(a>2c)2(a>2c)2(a>2c)2(a>2c)(a>2c)(a>2c)(a>2c)  A{a4(a>2c)4a4(a>2c)4  a4(a>2c)4a2a2(a>2c)4}10  a4(a>2c)4a4(a>2c)4
+//other thing
+|ido2t2A{aaaaaaaa}3 r16 t4  A{rara  raa2a2a}10 rara
+//hi-hat
+|idv2s8 t2r64 A{cccccccc}21  
