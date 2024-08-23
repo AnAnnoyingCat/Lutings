@@ -1,0 +1,27 @@
+#lute 520
+
+//Perc. ahh melody
+ils3Y{fr>f<fr2>f1r3fr<fr>fr  <fr>f<fr2>fr3crcr<br  fr>f<fr2>fr3fr<fr>fr  <fr>f<fr2>fr3t2/3ccct1crfc  
+<frfa'r2b'r3frf<f>ga'  frfa'r2b'r3>crc<cb<b>  frfa'r2b'r3frf<f>ga'  r2fa'r2fb'r2>c<f>fr3<  v
+A{f>fr<f>fr<fr3frf>f<fr  d'>d'r<d'>fr<d'r3d'rd'>d'<d'r  g>gr<g>gr<gr3grg>g<gr  >c>cr<cfrcr3fcfra'r<}2
+A2
+}
+|ibv7s4Y
+//Cotn iconic luting organ bass
+|ils6W{r256  >c10<frf>c2r  d'10<a'2>c2f2  g8f4c4  ef2g3g4c2>c2<c2    r4c4d'4c4  <b8g6ga'  b'4f4a'4g2f2  ef2g3g4c2>c4}
+|ios6W
+|ibs6W
+//Violin ahh bzzzzt
+|ibv6s7r128X{t16  a'  b'  >c  a'8g8<  a'  b'  >c  a'8g8<}
+|icv6s7r128X
+//Bass
+|ibs6Z{o2fr2fr2fr3frfrfr  fr2fr2fr3>crcr<br fr2fr2fr3frfrfr  fr2fr2fr3a'2/3a'2/3a'2/3a'ra'b'  fr2fr2fr3frfrfr  fr2fr2fr3>crcr<br fr2fr2fr3frfrfr  fr2fr2fr2ffrfr3 v
+A{fr2fr2fr3frfrfr  d'r2d'r2d'r3d'rd'rd'r  gr2gr2gr3grgrgr  >cr2cr2cr3crcrcr<  }2
+A2
+}
+|icv7Z
+//Percussion
+|ids2A{r2c2(<ca)2c2 rcc2(<ca)2c2  r2c2(<ca)2c2 r1(<ca)2r1(<ca)2c2}4 A{r2c2(<ca)2c2 r2c2(<ca)2c2}16
+|ido0r128A{a3a3aar8}16
+|ido0r128A{a3a3aar8}16
+|ido0r128A{a3a3aar8}16
