@@ -1,14 +1,17 @@
 #lute 460
 
-|il
+il
 
 
 //Perdussion
 //Hi-Hat
-|idA{c2ccc2cc}
+|idv3A{c2ccc2cca2ccc2cc}4
 //Snare
-|id
+|id<A{r4c2r6c4}3  r4c2r2c2c2cccc
 //Floor Tom
-|id
-//Bass Drum
-|id
+|ido1A{c2r4c2r4c4}3  c2r4c2r8
+//Bass Drum (twice for loud)
+|idZ{o0A{aar4aar4aar2}3  aar4aar8}
+|idZ
+//Special Cymbal
+|idr48v0A{a/2}16~v2A16~v5//put big one here//a4
