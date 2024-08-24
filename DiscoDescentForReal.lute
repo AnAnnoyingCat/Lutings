@@ -1,17 +1,48 @@
 #lute 460
-
 il
+//Main voice (Guit. El. 1)
+|ilv9U{r256  r3ga8r2ga  b2>c2<b>c<bgbr>cr<bg3  a12r2fg  a8a'8  ar2a>e8r2de  f2efg2fg>c2<b2a2g2  a12r2fg  a6a'ab4e4}
+|ibU
+|icv5U
+|ifv3U
 
+//Main voice (Synth)
+|ibv8s6W{t2r64  <A{r(ac)}6  r(ab)r(ab) A{r(fa)}4    r(da)r(da)r(ea')r(ea')>  A{r(ce)}4  <r(be)r(be)r(bd)r(bd)>  r(cf)r(cf)r(cf)r(cf)  <r(be)r(be)r(ba')r(ba')  r32>t1}
+v3aec<aec<ae>>~v4aec<aec<ae>>~v5  >c<aec<aec<a>>~v6>aec<a>>c<aec<~v8 V{t2
+A{r(ac)}4  A{r(gb)}4  t4r(fa)(ac)(cf)  r(ea')(a'b)(be)  t2r(ea)r(ea)1(eb)1(eac)8  (gd)8(ge)4(gdf)4  t8(fac)(<afa)  (<eeb)(<eea')
+}
+|icv4s5W v0aec<aec<ae>>~v1aec<aec<ae>>~v2  >c<aec<aec<a>>~v3>aec<a>>c<aec<~v4 V
+|ivv4s5W v0aec<aec<ae>>~v1aec<aec<ae>>~v2  >c<aec<aec<a>>~v3>aec<a>>c<aec<~v4 V
+
+//Electric Guitar 2
+|ijv7Z{s4<aar4aar4>cc<r2  aar4aar4aar2  aar4aar4>cc<r2  aar4aar8}
+|icv3Z
+
+//Scratchy Bass
+|ijv2o3Y{s4r64t2a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  d>d<d>d<e>e<e>e<  a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  d>d<d>d<e>e<e>e<  r64
+a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  e>e<e>e<e>e<e>e<  a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  e>e<e>e<e>e<e>e<
+}
+|icv4o2Y
+|ibv6o2Y
+
+//Buildup for Chorus Bass
+|ibo2t2r192v8A{a>a<}4~v5A2~v3A2~v1A2~v2A2~v4A2~v8
+|ico2t2r192v4A{a>a<}4~v2A2~v1A2~v0A2~v1A2~v2A2~v4
+
+//Chorus synth SFX
+|ibv7Z{r256s2r4A{c/4e/4r3/2}6  r16  r4B{c/4f/4r3/2}6  r16  r4A6  r16  r4B6}
+|ifv3Z
 
 //Perdussion
 //Hi-Hat
-|idv3A{c2ccc2cca2ccc2cc}4
+|ids7v3A{c2ccc2cca2ccc2cc}4 //Intro Over// A8  v5B{c3cc2c2c2r2ccccc2ccc2ccc2r2c2c2}2v3  A8
 //Snare
-|id<A{r4c2r6c4}3  r4c2r2c2c2cccc
+|id<A{r4c2r6c4}3  r4c2r2c2c2cccc 	//Intro Over// A{r4c4r4c4}8  r64  A8
 //Floor Tom
-|ido1A{c2r4c2r4c4}3  c2r4c2r8
+|ido1A{c2r4c2r4c4}3  c2r4c2r8 		//Intro Over// A{c4r4c4r4}8  r64  A8
 //Bass Drum (twice for loud)
-|idZ{o0A{aar4aar4aar2}3  aar4aar8}
+|idZ{o0A{aar4aar4aar2}3  aar4aar8 	//Intro Over// A{a4r4a4r4}8} r64  A8
 |idZ
-//Special Cymbal
-|idr48v0A{a/2}16~v2A16~v5//put big one here//a4
+//SFX Perc.
+|idX{r48C{v0A{a/2}16~v1A8~v2A8~v5>d16<}  r32  <r8v1B{(cc)}8~v>  r48  C  r32  C}
+|idX
