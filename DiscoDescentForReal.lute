@@ -1,48 +1,62 @@
 #lute 460
 il
 //Main voice (Guit. El. 1)
-|ilv9U{r256  r3ga8r2ga  b2>c2<b>c<bgbr>cr<bg3  a12r2fg  a8a'8  ar2a>e8r2de  f2efg2fg>c2<b2a2g2  a12r2fg  a6a'ab4e4}
-|ibU
-|icv5U
-|ifv3U
+|ilZ{r256  r3ga8r2ga  b2>c2<b>c<bgbr>cr<bg3  a12r2fg  a8a'8  ar2a>e8r2de  f2efg2fg>c2<b2a2g2  a12r2fg  a6a'ab4e4  e8d6ed  c8<b4e4  a4f4a4>c2<ba  b6aa'a4a'2e2  a16  r176
+a8r2e2>e4  g4e4a4e4  e'8r2<a2>e4  e'4<b4>c4<b4  a4b4a2b2a2e2  f12g4  a2e2>a2e2e'6<a10  <a2>a2>e2c2  d6c6d4  <a2e2>a2e2e'6<a6  >e'4e4a'2e2 a16}
+|ibZ
+|icv6Z
+|ifv4Z
 
 //Main voice (Synth)
-|ibv8s6W{t2r64  <A{r(ac)}6  r(ab)r(ab) A{r(fa)}4    r(da)r(da)r(ea')r(ea')>  A{r(ce)}4  <r(be)r(be)r(bd)r(bd)>  r(cf)r(cf)r(cf)r(cf)  <r(be)r(be)r(ba')r(ba')  r32>t1}
-v3aec<aec<ae>>~v4aec<aec<ae>>~v5  >c<aec<aec<a>>~v6>aec<a>>c<aec<~v8 V{t2
-A{r(ac)}4  A{r(gb)}4  t4r(fa)(ac)(cf)  r(ea')(a'b)(be)  t2r(ea)r(ea)1(eb)1(eac)8  (gd)8(ge)4(gdf)4  t8(fac)(<afa)  (<eeb)(<eea')
-}
-|icv4s5W v0aec<aec<ae>>~v1aec<aec<ae>>~v2  >c<aec<aec<a>>~v3>aec<a>>c<aec<~v4 V
-|ivv4s5W v0aec<aec<ae>>~v1aec<aec<ae>>~v2  >c<aec<aec<a>>~v3>aec<a>>c<aec<~v4 V
+|ibv8s3Z{t2r64  <A{r(ac)}6  r(ab)r(ab) A{r(fa)}4    r(da)r(da)r(ea')r(ea')>  A{r(ce)}4  <r(be)r(be)r(bd)r(bd)>  r(cf)r(cf)r(cf)r(cf)  <r(be)r(be)r(ba')r(ba')  r32>t1}
+v3aec<aec<ae>>~v4aec<aec<ae>>~v5  >c<aec<aec<a>>~v6>aec<a>>c<aec<~v8 Y{t2
+A{r(ac)}4  A{r(gb)}4  t4r(fa)(ac)(cf)  r(ea')(a'b)(be)  t2r(ea)r(ea)1(eb)1(eac)8  (gd)8(ge)4(gdf)4  t8(fac)<(afa)  (eeb)(eea')  >(cge)(dad)  (cea)(<bea')  (fa)4(fb)4(fc)4(ff)4  (fbd)(ea'e)
+A{r2(ea)2}15 r2e2 }
+|icv4s3Z v0aec<aec<ae>>~v1aec<aec<ae>>~v2  >c<aec<aec<a>>~v3>aec<a>>c<aec<~v4 Y
+|ivv4s3Z v0aec<aec<ae>>~v1aec<aec<ae>>~v2  >c<aec<aec<a>>~v3>aec<a>>c<aec<~v4 Y
 
 //Electric Guitar 2
-|ijv7Z{s4<aar4aar4>cc<r2  aar4aar4aar2  aar4aar4>cc<r2  aar4aar8}
-|icv3Z
+|ijv7Z{s4<aar4aar4>cc<r2  aar4aar4aar2  aar4aar4>cc<r2  aar4aar8 r448}v8Y{
+ar2a>e10cd  e8d4g4  e8c6<a>c  e'r<e'>e'r<e'>e'2cc<b>ce'e'<b>c  <<ar>ar>ar<<aa>>a<aa>a<<aa>>aa  a8a'2ea2ebe  >c4<a6>a2e4  e'8f4<f2>c2<}
+|icv3Zv6Yv3X{(<aea)16  (cec)8(dad)8  (<aea)16  (ebe)8(dad)8  (cec)8(<bdb)8  (<fcf)16  (<aea)8(e'b'e')16  (<aea)8  (cec)16  (<aea)8(e'b'e')16  (ebe)8  (<aea)16}
+|ibv0Zv6Yv3X
 
 //Scratchy Bass
-|ijv2o3Y{s4r64t2a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  d>d<d>d<e>e<e>e<  a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  d>d<d>d<e>e<e>e<  r64
-a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  e>e<e>e<e>e<e>e<  a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  e>e<e>e<e>e<e>e<
-}
-|icv4o2Y
-|ibv6o2Y
+|ijv2o3Z{s4r64t2a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  d>d<d>d<e>e<e>e<  a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  d>d<d>d<e>e<e>e<  r64
+				a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  e>e<e>e<e>e<e>e<  a>a<a>a<a>a<a>a<  g>g<g>g<g>g<g>g<  f>f<f>f<f>f<f>f<  e>e<e>e<e>e<e>e<
+			   >c>c<c>c<c>c<c>c<< a>a<a>a<b>b<b>b<  f>f<f>f<f>f<f>f<  d>d<d>d<e>e<e>e<  a>a<a>a<a>a<a>a<  a>a<a>a<a>a<a>a<  a>a<a>a<a>a<a>a<  a>a<a>a<a>a<a>a<
+			    a>a<a>a<a>a<a>a<  f>f<f>f<f>f<f>f<  a>a<a>a<a>a<a>a<  A{e'>e'<}4        a>a<a>a<a>a<a>a<  f>f<f>f<f>f<f>f<  a>a<a>a<a>a<a>a<  A4
+				a>a<a>a<a>a<a>a< >c>c<c>c<d>d<d>d<< a>a<a>a<a>a<a>a< >e>e<e>e<d>d<d>d<  c>c<c>c<<b>b<b>b< f>f<f>f<f>f<f>f<  a>a<a>aA{e'>e'<}2 A2     <a>a<a>a<
+			   >c>c<c>c<c>c<c>c<< a>a<a>aA2			A2      e>e<e>e<< a>a<a>a<a>a<a>a<}
+|icv4o2Z
+|ibv6o2Z
 
 //Buildup for Chorus Bass
 |ibo2t2r192v8A{a>a<}4~v5A2~v3A2~v1A2~v2A2~v4A2~v8
 |ico2t2r192v4A{a>a<}4~v2A2~v1A2~v0A2~v1A2~v2A2~v4
 
 //Chorus synth SFX
-|ibv7Z{r256s2r4A{c/4e/4r3/2}6  r16  r4B{c/4f/4r3/2}6  r16  r4A6  r16  r4B6}
-|ifv3Z
+|ibv7Z{>r256s7r8A{c/4e/4r3/2}4  r16  r8B{c/4f/4r3/2}4  r16  r8A4  r16  r8B4} v9 Y{r16  r4ccr6ccc/6a/6>c/6<r/2c  <r2(ae)(ae)r2(ae)(ae)r2(a'd)(a'd)r2(a'c)(a'b)  ffr4ffr4fff/6>c/6f/6<r/2f  r8(eb)(eb)r6
+r2(aa)>(cc)A{r2(cc)(cc)}2<r2(bb)(aa)  A{r2(aa)(aa)}3r2(aa)(ee)  A{r2(ee)(ee)}3r2(dd)(cc)  A{r2(cc)(cc)}3r2(<bb)(<aa)  
+r8A{a/6>c/6e/6<r3/2}4  r8B{f/6a/6>f/6<r3/2}4  r8A4  r8B{g'/6b/6>e'/6<r3/2}4  r8A4  r8C{a/6>c/6f/6<r3/2}4  r8A4  r8B4}
+|ifv4Zv5Y
+
+//Special CotN Organ Synth sound
+|ilv5Z{s7r640	a2>c2e'2d2cdc<argar  a2>c2e'2d2cdc<ar>ce'e<  a2>c2e'2d2cdc<argar  a'2b2>c2<b2a'ebe>e<eba'  >e<b>g<b>b<b>g<b>e'<b>g'<b>a<b>g'<b  >c<a>cec<eba>c<a>cec<eba
+ae>cec<e>dce'<b'g'e'b'g'>e'g'  e'<b'g'e'b'g'>e'g'<ae>cec<e>dc  d<a>cd<ae>c<a>d<a>cd<ae>c<a  ae>cec<e>dce'<b'g'e'b'g'>e'g'  b'g'e'<b'>e'<b'>e'g'e<ba'eba'>ea'  arcefredcrcde'dc<a}
+|iov4Z
+|ibv5Z
 
 //Perdussion
-//Hi-Hat
-|ids7v3A{c2ccc2cca2ccc2cc}4 //Intro Over// A8  v5B{c3cc2c2c2r2ccccc2ccc2ccc2r2c2c2}2v3  A8
+//Hi-Hat							Intro Over
+|ids7v3A{c2ccc2cca2ccc2cc}4 		A8  v5B{c3cc2c2c2r2ccccc2ccc2ccc2r2c2c2}2v3  A16 B{r2c2r2c2r2c2r2c2}8  A12
 //Snare
-|id<A{r4c2r6c4}3  r4c2r2c2c2cccc 	//Intro Over// A{r4c4r4c4}8  r64  A8
+|id<A{r4c2r6c4}3  r4c2r2c2c2cccc 	A{r4c4r4c4}8  r64  A36
 //Floor Tom
-|ido1A{c2r4c2r4c4}3  c2r4c2r8 		//Intro Over// A{c4r4c4r4}8  r64  A8
+|ido1A{c2r4c2r4c4}3  c2r4c2r8 		A{c4r4c4r4}8  r64  A36
 //Bass Drum (twice for loud)
-|idZ{o0A{aar4aar4aar2}3  aar4aar8 	//Intro Over// A{a4r4a4r4}8} r64  A8
+|idZ{o0A{aar4aar4aar2}3  aar4aar8 	A{a4r4a4r4}8} r64  A36
 |idZ
 //SFX Perc.
-|idX{r48C{v0A{a/2}16~v1A8~v2A8~v5>d16<}  r32  <r8v1B{(cc)}8~v>  r48  C  r32  C}
-|idX
+|idZ{r48C{v0A{a/2}16~v1A8~v2A8~v5>d16<}  r32  <r8v1B{(cc)}8~v>  r48  C  r32  C  r224  C  r96 C  r160 C }
+|idZ
