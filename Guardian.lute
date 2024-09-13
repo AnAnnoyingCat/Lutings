@@ -1,0 +1,18 @@
+//#lute 744
+
+//ils3Z{v>b2<v3ab>g'<b'>eca<a>g'<b  >b<b'>g'ce<a>a<bb'>g'd'~v  b<b>e<b'>g'ce<a>a<b>g'<b'  >bcg'<a>e<b>a<b'>f<b>b2}
+//|ils3Z
+//|ibs3Zs5Y{t2<(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1  <(g'b)b'1r1>(cg')f'1r1(ea)2(d'g')1r1  <(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1  <(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1}
+//		   v<(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1  <(g'b)b'1r1>(cg')f'1r1(ea)2(d'g')1r1~v3  <(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1  <(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1~v0
+//|ibs3Zs5
+//|icr47v5Yv5<(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1  <(g'b)b'1r1>(cg')f'1r1(ea)2(d'g')1r1~v1  <(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1  <(g'b)b'1r1>(d'g')f'1r1(ea)2(d'g')1r1~v0
+//
+//|ikZ{s6t2r23  (<be)3(gb)(ca)(<ad)(<be)(g'd)   (d'a)(db)r(ab)5}
+//|ibZ
+//
+//|ibZ{r47v7o1  s1  r4b2>eg'a2r2<  r2b2>e2g'ea2r2< s9  r4b2>eg'a2r2<  r2b2>e2g'ea2r2<  v7s1  r4b2>eg'a2r2<  r2b2>e2g'ea2r2< s9  r4b2>eg'a2r2<  r2b2>e2g'ea2r2<~v0}
+//|ikZ
+//|idr47o0A{a12}8
+//Thoroughly optimized Luting: 
+#lute 744 ilY{s3v>b2<v3ab>S{g'}B{<b'>}ecaD{<a>}SC{<b>}bA{BSceDa<b}b'>Sd'~vbCeA>SBbcSDeCaBfCb2}|ilY|ibYs5t2Z{B{<(g'b)b'1r1>}(d'g')A{f'1r1(ea)2(d'g')1r1}}W{B(cg')A}Z2vZW~v3Z2R{~v0}|ibYs5|icQ{r47}v5t2ZWZ2v5ZW~v1Z2R|ikV{s6t2r23(<be)3(gb)(ca)(<ad)(<be)(g'd)(d'a)(db)r(ab)5}|ibV|ibT{Qv7o1s1}X{r4b2>eSA{a2r2<}r2b2>e2SeA}U{s9Xv7s1Xs9XR}|ikTXU|idQo0A{a12a12}4
+//Luting length: 350
