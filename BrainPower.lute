@@ -1,0 +1,35 @@
+#lute 680 il
+
+//*Main Stuff*
+//Main Voice(Pno.1) (Bean, Bass)
+|itZ{t2r12d'd'  e4g'rg'rg'r  A{g'rg'rg'rg'r}3  A4  }
+|ibv3Z
+
+//*Secondary Stuff*
+//Pno.1 BassKey		(Bass, Chiptune)
+//Pno.2 ViolinKey 	(Bass)
+//Pno.2 BassKey   	(Bass)
+|ibZ{t2o2r16  A{rg'rg'rg'rg'}4  A4}
+|icZ
+
+|ibv6s6o3t2r16  A{r4(g'd')r6(g'd')r}4  A3vr4(g'd')1r1(ad')t4/3g'(<g'g')(<g'g')t2(g'd')1r1(>g'd')v6
+
+|ibv6s6o1t2r16  A{g'r6g'r6}3g'r6g'rg'g'  A3g'r4ag'r6
+
+
+//*Perc*
+//Hi-Hat Closed
+//Snare
+//Kick(3x)
+|ido4v5t2r16A{rcrcrcrc}4  A4
+
+|ido3t4r16A{rcrc}4  A4
+
+|idZ{o0t4r16A{(ac)(ac)(ac)(ac)}3(ac)(ac)(ac)(ac)2(ac)2  A4}
+|idZ
+
+
+//*SFX*
+//Startup Cymbal
+|idC{v0A{a/2}16~v1A8~v2A8~v5>d16<}
+
