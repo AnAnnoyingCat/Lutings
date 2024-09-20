@@ -21,5 +21,5 @@
 //Drum
 
 //Un(!)-safely optimized luting; make sure it compiles first: 
-#lute 560 igt2r16>A{fV{ab4}fVfab>ed4W{<b}>c}Wge8rdegZ{e12}AeWg8rbgdZr32fga4b>cd4efg12r32<fegfY{ba>cW>dc}edfeX{e1f1r1d1}e16|ibv8s4t2r144A{def4gV>c}WZAdZ<AWZdcedgfagYX<b16|ibv3r16<A{D{f1r1I{(ac)}rIrI}rDrDrDC{r(eg)1r1J{(gc)}rJrJ}4r}2t1B{drardraK{r<gr>d}2rcrgrcrgL{r<ar>e}2r}3F{dM{r(fa)}2r3}2G{cN{r(gb)}2r3}2H{er(ab)r3(ab)r}2eE{r(a'b)}4r3e2|idv1A{E{c2}F{cc}E}FEc4B{EAEA}8EC{AFAF}6D{EFc4}4CE4c4c4
+#lute 560 igt2r16>A{fV{ab4}fVfab>ed4W{<b}>c}Wge8rdegZ{e12}AeWg8rbgdZr32fga4b>cd4efg12r32<fegfY{ba>cW>dc}edfeX{e1f1r1d1}e16|ibv8s4t2r144A{def4gV>c}WZAdZ<AWZdcedgfagYX<b16|ibv3r16<A{D{f1r1I{(ac)}rIrI}rDrDrDC{r(eg)1r1J{(gc)}rJrJ}4r}2t1B{drardraK{r<gr>d}2rcrgrcrgL{r<ar>e}2r}3F{dM{r(fa)}2r3}2G{cN{r(gb)}2r3}2H{er(ab)r3(ab)r}2eE{r(a'b)}4r3e2|idv5>A{E{e2}F{ee}E}FEe4B{EAEA}8EC{AFAF}6D{EFe4}4CE4e4e4
 //Luting length: 391

@@ -1,35 +1,34 @@
 #lute 680 il
 
-//*Main Stuff*
 //Main Voice(Pno.1) (Bean, Bass)
-|itZ{t2r12d'd'  e4g'rg'rg'r  A{g'rg'rg'rg'r}3  A4  }
-|ibv3Z
+|itZ{t2r12d'd'  e4g'rg'rg'r  A{g'rg'rg'rg'r}3~v6  A4~v3  A3v5A~v7  A3~vr16  
+<aa>d'4<a4g'8>  r12  eeeg'd'4<ba6>  r8e<b  b4b8r4  r8bab>d'<  a4g'8r4  r14e  a4g'8}
 
-//*Secondary Stuff*
 //Pno.1 BassKey		(Bass, Chiptune)
-//Pno.2 ViolinKey 	(Bass)
-//Pno.2 BassKey   	(Bass)
-|ibZ{t2o2r16  A{rg'rg'rg'rg'}4  A4}
+|ibZ{t2o2r16  A{rg'rg'rg'rg'}4  A4  A4  A3(g'g')r1(d'd')r1(<bb)r1(ee)r1(<aa)(a'a')
+<A  rg'rg'rg'ra'  ra'ra'ra'ra'  ra'ra'ra'ra'  A  rg'rg'>rere  rdrdrdrd  (<dd)4t4/3(dd)(dd)(dd)t2(<dd)4(<ee)4}
 |icZ
-
-|ibv6s6o3t2r16  A{r4(g'd')r6(g'd')r}4  A3vr4(g'd')1r1(ad')t4/3g'(<g'g')(<g'g')t2(g'd')1r1(>g'd')v6
-
-|ibv6s6o1t2r16  A{g'r6g'r6}3g'r6g'rg'g'  A3g'r4ag'r6
+|ilv1Z
+//Pno.2 ViolinKey 	(Bass)
+|ibv6s6o3t2r16  A{r4(g'd')r6(g'd')r}4  A3vr4(g'd')1r1(ad')t4/3g'(<g'g')(<g'g')t2(g'd')1r1(>g'd')v6  A4
+//Pno.2 BassKey   	(Bass)
+|ibv6s6o1t2r16  A{g'r6g'r6}3g'r6g'rg'g'  A3g'r4ag'r6  A4
 
 
 //*Perc*
 //Hi-Hat Closed
+|ido4v5t2r16A{rcrcrcrc}4  A4  A4  A2 rcrcr8r16  
+A4  A3rcrcrcra  
 //Snare
+|ido3t4r16A{rcrc}4  A4  A4  A2rcr2c2c1c1c1c1A
+A4  A4
 //Kick(3x)
-|ido4v5t2r16A{rcrcrcrc}4  A4
-
-|ido3t4r16A{rcrc}4  A4
-
-|idZ{o0t4r16A{(ac)(ac)(ac)(ac)}3(ac)(ac)(ac)(ac)2(ac)2  A4}
+|idZ{o0t4r16B{A{(ac)(ac)(ac)(ac)}3(ac)(ac)(ac)(ac)2(ac)2}  A4  B  A2(ac)(ac)(ac)2r1(ac)1(ac)1(ac)1(ac)1(ac)1 v5(ac)3(ac)3(ac)3(ac)3(ac)2(ac)2~v
+B  A4}
 |idZ
 
-
 //*SFX*
-//Startup Cymbal
-|idC{v0A{a/2}16~v1A8~v2A8~v5>d16<}
-
+//Cymbal
+|idC{v0A{a/2}16~v1A8~v2A8~v5>d16  r176  d16  d8d8  d4d4d4d4  <v0A{a/2}16~v1A8~v2A8~v5>d16}
+//rimTom
+|ido2r208A{(cc)}16 A16 A8B{(cc)/2}8A4
