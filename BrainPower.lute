@@ -1,9 +1,9 @@
 #lute 680 il
 
 //Main Voice(Pno.1) (Bean, Bass)
-|itZ{t2r12d'd'  e4g'rg'rg'r  A{g'rg'rg'rg'r}3~v6  A4~v3  A3v5A~v7  A3~vr16  
-<aa>d'4<a4g'8>  r12  eeeg'd'4<ba6>  r8e<b  b4b8r4  r8bab>d'<  a4g'8r4  r14e  a4g'8}
-
+|itt2r12d'd'  e4g'rg'rg'r  A{g'rg'rg'rg'r}3~v6  A4~v3  A3v5A~v7  A3~vr16  
+|ilt2r272aa>d'4<a4g'8>  r12  eeeg'd'4<ba6>  r8e<b  b4b8r4  r8bab>d'<  a4g'8r4  Z{r14e  a4g'8}
+|imt2r384Z
 //Pno.1 BassKey		(Bass, Chiptune)
 |ibZ{t2o2r16  A{rg'rg'rg'rg'}4  A4  A4  A3(g'g')r1(d'd')r1(<bb)r1(ee)r1(<aa)(a'a')
 <A  rg'rg'rg'ra'  ra'ra'ra'ra'  ra'ra'ra'ra'  A  rg'rg'>rere  rdrdrdrd  (<dd)4t4/3(dd)(dd)(dd)t2(<dd)4(<ee)4}
