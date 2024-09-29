@@ -1,0 +1,22 @@
+#lute 440 il
+
+//Cat 1
+|ims2t2A{<r>d'5/2r3/2rg'5/2r3/2rrrrra2a'4}r4Afg'  a'g'12r2  a'a'g'a'rrrr  d'aaa'aa4a'  ddd'd4rrr  ra'a'g'a'6g'  d'd'<b>d'4a'rr  <b>bbababa  >c4c4<e2d6
+a'g'12r2  a'a'g'a'rrrr  d'aaa'aa4a'  d4d'd4rr<b>  r4dg'4aaa  b12ab  >d'4d'4d'<a>d'<a10
+//Cat 2
+|ims4t2A{<r>re5/2r3/2re5/2r3/2rrrg'5/2r3/2r4}r4A<bb  >d'd'12r2  ccccrrrc  rd'd'<b>d'd'4<b>  <b'b'b'b'4rrb'  b>e'e'e'e'6e'  <a'a'a'a'4>er<a'>  rd'd'd'd'd'd'd' a4a4<a'2a'6
+>d'd'12r2  ccccrrrc  rd'd'<b>d'd'4<b  b'4b'b'4ra'r  b4a>d4g'g'g'  f12dg'  a4a4ag'ae10
+//Cat 3
+|ims6t2A{<r>rra'5/2r3/2rd'5/2r3/2rd5/2r3/2rr4}r4A<a'a'  aa12r2  g'g'e'g'rrb'r  raaa'aa4f  g'g'g'g'4ra'r  rbbbb6b  eeee4bg'r  raaaaaaa  >f4f4<e2e6
+aa12r2  g'g'e'g'rrb'r  raaa'aa4f  g'4g'g'4g'r4  g'4g'b4>ddd  d12  <b>d  e4e4g'<b>ed'10
+//Cat 4
+|ims8t2A{<a5/2r3/2>rrrrr<a2b5/2r3/2>rrr4}<e4>Ar4  r16  r10<a'r4  r16  r10g'r4  r64  r16  r10a'r4
+
+//Bass
+|ibv6r64o2t2a(>d'e)a(>d'e)a(>d'e)a(>d'e)  a'(>ce')a'(>ce')a'(>ce')a'(>ce')  >d'(fb)d'(fb)d'(fb)d'(fb)<  g'(>d'g')g'(>d'g')g'(>d'g')g'(>d'g')
+b(>e'g')b(>e'g')b(>e'g')b(>e'g')  e(be)e(be)e(be)e(be)  a(>d'e)a(>d'e)a(>d'e)a(>d'e)  f(>ce')f(>ce')f(>ce')f(>ce')
+a(>d'e)a(>d'e)a(>d'e)a(>d'e)  a'(>ce')a'(>ce')a'(>ce')a'(>ce')  >d'(fb)d'(fb)d'(fb)d'(fb)<  g'(>d'g')g'(>d'g')g'(>d'g')g'(>d'g')
+b(>dg')b(>dg')b(>dg')b(>dg')  d(>df)d(>df)d(>df)d(>df)  e(ae)e(ae)e(ae)e(ae)  a(>d'e)e(>d'e)(<aa)8
+
+//Vibe ahh Vibraphone
+|iit2v5s3r64A{a>d'ea'g'ed'<a  a'8r8} r80  r14a'A  r48  >ba'ed'<a8>  b8
