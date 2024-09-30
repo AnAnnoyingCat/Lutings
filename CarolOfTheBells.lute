@@ -1,0 +1,34 @@
+#lute 680 il
+
+//Violin Lead
+|ivt2r288>  g4g'ge4  g4g'ge4  (ga)4ga(eg')4  a4gab>c<  (gb)4(g'a)(gb)(eg)4  (gb)4(g'a)(gb)(eg)4  >c6<bab  a4g4g'4  g4g'ge<b>  g4g'ge<b>  (ga)4gag'd  a4gab>c<  b8a>c<  b12  >e'24
+//Violin plucked 1
+|ilv6t2  A{egb>e<r4  r12  egb>er<b  >g4g'4e4<  egb>e<r4  r12  egb>erg  g'4e'4<b4}3 
+//Violin plucked 2
+|ilv2s8t2  A{eeeeee  ererer}12
+
+//Horn 1
+|ib<t24r96  g  g  a16g4g'4g'  b  c  c  b  //main intro part//  g  a  e  d  g  a  e  e
+//Horn 2
+|ib<t24r96  e  e  e  e12e'12  g  g  a  g' //main intro part//  e  e <b  b> e  g <b> e'
+//Horn 3
+|ib<t24r120 c  c <b  >e  e  e  e12  e'12  //main intro part//  c <a  g  g> c  d <g' b
+
+//Glockenspiel
+|iav2Z{s2t2r192>>A{g4g'ge4}8  A16}
+|iiv4Z
+
+//El. Bass
+|ibo2s3v8Z{t2r288  A{c}12  A{d}12  A{e}12  A{g}12  A{c}12  A{d}12  A{e'}12  <A{b}12}
+
+
+//Percussion
+//Tambourine
+|idv5s6r108t12>A{er}8 v8  e  r  e10e1e1  e  e  r8e4  e6e4e1e1  e  e  r  e11e1  e  e  r  e
+//Bass Drum
+|idZ{o0r192a4r8  r10aa  a4r2a2r4  r12  a4r8  r10aa  a4r2a2r4  r12  t2A{aaaaaa}16}  
+|idv5Z
+//Rim
+|idv5t4o2r288  A{aaa}16
+//Drumroll
+|idr276v0A{a/2}12~v1A6~v2A6~v5>d12<
