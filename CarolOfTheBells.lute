@@ -1,34 +1,53 @@
 #lute 680 il
 
 //Violin Lead
-|ivt2r288>  g4g'ge4  g4g'ge4  (ga)4ga(eg')4  a4gab>c<  (gb)4(g'a)(gb)(eg)4  (gb)4(g'a)(gb)(eg)4  >c6<bab  a4g4g'4  g4g'ge<b>  g4g'ge<b>  (ga)4gag'd  a4gab>c<  b8a>c<  b12  >e'24
+|ivY{t2r288>  g4g'ge4  g4g'ge4  (ga)4ga(eg')4  a4gab>c<  (gb)4(g'a)(gb)(eg)4  (gb)4(g'a)(gb)(eg)4  >c6<bab  a4g4g'4  g4g'ge<b>  g4g'ge<b>  (ga)4gag'd  a4gab>c<  b8a>c<  b12  >e'24< r24 <<b>d'e'eg'g  ab>cdeg'
+Z{A{g4g'ge4}4  A{b4abg4}3  b4abe4  rgg'ge<b>  ragag'd  rbabgg'  reg'gab  >e4eedc  <b4bbag  a4b4>c4  e'12}}
+|ivY
+|ivt2r528>Z
+|iit2r528>s3A{g4g'ge4} s1A s3A s5A  s7A{b4abg4} s9A s7A  s5b4abe4  s3rgg'ge<b>  s1ragag'd  s3rbabgg'  s5reg'gab  s7>e4eedc  s9<b4bbag  s7a4b4>c4  s5e'12
 //Violin plucked 1
 |ilv6t2  A{egb>e<r4  r12  egb>er<b  >g4g'4e4<  egb>e<r4  r12  egb>erg  g'4e'4<b4}3 
 //Violin plucked 2
 |ilv2s8t2  A{eeeeee  ererer}12
 
 //Horn 1
-|ib<t24r96  g  g  a16g4g'4g'  b  c  c  b  //main intro part//  g  a  e  d  g  a  e  e
+|ibZ{s6<t24r96  g  g  a16g4g'4g'  b  c  c  b  //main intro part//  g  a  e  d  g  a  e  e  r48
+v6t12  e  d  c <b> e  g' e  e' r  d  c <b> a  g  g' b}
+|ibv3Z
 //Horn 2
-|ib<t24r96  e  e  e  e12e'12  g  g  a  g' //main intro part//  e  e <b  b> e  g <b> e'
+|ibZ{s7<t24r96  e  e  e  e12e'12  g  g  a  g' //main intro part//  e  e <b  b> e  g <b> e' r48
+v6t12 <b  a  g  g' b >d  c <b  r  a  g  g'>e  d  c  g'}
+|ibv3Z
 //Horn 3
-|ib<t24r120 c  c <b  >e  e  e  e12  e'12  //main intro part//  c <a  g  g> c  d <g' b
+|ibZ{s8<t24r120 c  c <b  >e  e  e  e12  e'12  //main intro part//  c <a  g  g> c  d <g' b  r48
+v6t12 <g  g' e  e' g  a  g  g' r  g' e  e'>c< b  a >e'}
+|ibv3Z
 
 //Glockenspiel
-|iav2Z{s2t2r192>>A{g4g'ge4}8  A16}
-|iiv4Z
+|iav3Z{s2t2r192>>A{g4g'ge4}24}>v4Y{e4eedc  <b4bbag  a4aaba  g4e4e4}
+|iiv6Zv8Y
 
 //El. Bass
-|ibo2s3v8Z{t2r288  A{c}12  A{d}12  A{e}12  A{g}12  A{c}12  A{d}12  A{e'}12  <A{b}12}
-
+|ibZ{o2s3v8Z{t2r288  A{c}12  A{d}12  A{e}12  A{g}12  A{c}12  A{d}12  A{e'}12  <A{b}12}  r48t12v5 >c <b  a  g >c< b  a  g  r  b  a  g >g' e  d  g}
 
 //Percussion
 //Tambourine
-|idv5s6r108t12>A{er}8 v8  e  r  e10e1e1  e  e  r8e4  e6e4e1e1  e  e  r  e11e1  e  e  r  e
+|idZ{v5s6r108t12>A{er}8 v8  e  r  e10e1e1  e  e  r8e4  e6e4e1e1  e  e  r  e11e1  e  e  r  e  r48}
+v6t2r6eee  e4e4e4  e6eee  e4e4e4  r6eee  e4e4e4  e6eee  e4eee1e1e1e1  r12  e4e4e4  e6eee  e4e4e4  r6eee  e4e4e4  e6eee  e8
 //Bass Drum
-|idZ{o0r192a4r8  r10aa  a4r2a2r4  r12  a4r8  r10aa  a4r2a2r4  r12  t2A{aaaaaa}16}  
+|idZ{o0r192a4r8  r10aa  a4r2a2r4  r12  a4r8  r10aa  a4r2a2r4  r12  t2A{aaaaaa}16  r48t12v  A{(ac)  (ac)  (ac)6(ac)4(ac)2  (ac)}4}  
 |idv5Z
 //Rim
-|idv5t4o2r288  A{aaa}16
+|idv5t4o2r288  A{aaa}16  r48t12  v8A{ra}8
 //Drumroll
-|idr276v0A{a/2}12~v1A6~v2A6~v5>d12<
+|idr276v0A{a/2}12~v1A6~v2A6~v5>d12  r228  d12  r84<  v0A{a/2}12~v1A6~v2A6~v5>d12
+
+
+//Your Multilutes Sir: 
+//Multilute 1:
+#lute m 680 il|ivE{t2}r288>Z{g4Q{g'}gR{e4}L{g4Qg}R}X{(ga)4H{ga}(eg')4a4HM{b>}G{c<}A{(gb)4(g'a)(gb)(eg)4}2>c6<F{ba}ba4g4g'4Le<MLe<M(ga)4HQda4HMGb8a>Gb12>e'24<r24<<Md'K{e'}eQHMcdeQV{Z2N{b4abg4}3b4abRrgQge<MD{ra}HQdrFbgQreQHMO{ReedGb4bFga4}b4>c4e'12}}|ivEr288>ZX|ivEr528>V|iiEr528>s3LRs1LRs3LRs5LRs7Ns9Ns7Ns5b4abRs3rgQge<Ms1DHQds3rFbgQs5reQHbs7>Reedcs9<b4bFgs7a4b4>c4s5e'12|ilv6EA{B{egMe<r4r12egM}J{er}<Mg4g'4R<BJgg'4e'4<b4}3|ilv2s8EA{P{eee}2J3}12|ibS{s6<t24r96gga16g4g'4QbccbHedHeeI{r48v6t12}edG
+//Multilute 2:
+#lute m MeQeKrdGMagQb}|ibv3S|ibT{s7<t24r96Pe12e'12gHQee<bMeg<MKI<FgQMdGbDgQ>edcQ}|ibv3T|ibU{s8<t24r120cGMPe12e'12Gagg>cd<QbI<gQeKHgQrQeK>GF>K}|ibv3U|iav3s2Er192>>Z12>v4OaaFg4R2|iiv6s2Er192>>Z12v8OaaFg4R2|ibo2s3v8Er288A{ccccccccccccdddddddddddd}P4ggggggggggggAK12<bbbbbbbbbbbbC{r48t12}v5>GFg>GFgrFg>Qedg|idv5s6r108t12>J8v8Je10B{e1e1}eer8Re6RBeJe11e1eJer48v6EA{r6PR3e6P}R3AReeB2r12R3e6PR3Ae8|idY{o0r192B{a4r8r10aaa4r2a2r4r12}2EW{aaaaaaaaaaaa}8CvA{(ac)(ac)(ac)6(ac)4(ac)2(ac)}4}|idv5Y|idv5t4o2r28
+//Multilute 3:
+#lute 8W4Cv8D8|idr276v0A{a/2a/2a/2}4B{~v1A2~v2A2~v5>d12}r228d12r84<v0A4B
