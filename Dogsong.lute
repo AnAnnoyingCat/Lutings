@@ -1,0 +1,19 @@
+//#lute 920 il
+
+//|itZ{t4  ra'r2fr2  d'e'2d'<a'2b'2>d'2  r<b'>r2d'r2  cd'2e'r6  ra'r2fr2  d'e'2d'<a'2b'2>d'2  t2g'fe're'd'<b'r  t4b'>d'd'r2<a'2>  
+//         ra'r2fr2  d'e'2d'<a'2b'2>d'2  r<b'>r2d'r2  cd'2e'r2<a'>  ra'r2fr2  d'e'2d'<a'2b'2>d'2  t2g'fe're'd'<b'r  t4b'>d'd'r2r2
+//<rb'r2b'2r4  b'>d'2c<b'2a'2b'2  rfr2f2r  e'f2g'f2e'2r2  rb'r2b'2r  b'>d'2c<b'2a'2b'2  r>c<r2a'2r  >ce'2d'c2<b'2>c2<  rb'r2b'2r  b'>d'2c<b'2a'2b'2
+//rfr2f2r  e'f2g'f2e'2r2  rb'r2b'2r  b'>d'2c<b'2a'2b'2  r>c<r2a'2r  >ce'2d'r2c  rcc3d'3c2  rc8
+//}
+//|itZ
+//|ibZ
+
+//|ibt4v8o3A{d'(fa')d'(fa')  d'(fa')d'(fa')  <g'(b'd')g'(b'd')  a'>(ce')<a'>(ce')  d'(fa')d'(fa')  d'(fa')d'(fa')  <(b'd'g')r>(ce'a')r  <(b'd'g')>(d'fa')(fa')r}2
+//<g'(b'd')g'(b'd')  g'(b'd')g'(b'd')  d'(fa')d'(fa')  d'(fa')d'(fa')  g'(b'd')g'(b'd')  g'(b'd')g'(b'd')  a'>(ce')r2(ce')2r4  (ce')r2(ce')r2(ce')2r2
+//<g'(b'd')g'(b'd')  g'(b'd')g'(b'd')  d'(fa')d'(fa')  d'(fa')d'(fa')  g'(b'd')g'(b'd')  g'(b'd')g'(b'd') >(ce'g')r6(ce')r2
+//(ce'g')r2(ce'g')r2(ce'g')  r(ce'g')(ce'g')3(cfa')3(ce'g')2  r(ce'g')12
+
+
+//Quickly optimized lutiing: 
+#lute 920 il|itZ{t4C{ra'Y{r2}fYX{d'}J{e'2}X<I{a'2}G{b'2}>K{d'2}}F{r<L{b'}>YXYcKe'}r6D{Ct2g'fe're'X<Lrt4L>X2Y}<I>CFY<W{a'>}DY<H{rLYG}r4B{E{L>Kc<GIGr}fYf2re'f2g'f2JYHrE>c<YIr>cJX}c2<G>c2<HrBYcrcc3d'3c2rc8}|itZ|ibZ|ibt4v8o3A{C{XF{(fa')}XF}2<B{H{g'(b'd')}2}WE{(ce')}<WEC2G{<(b'd'g')}r>(ce'a')rG>(d'fa')Fr}2<B2C2B2WI{EY(ce')2}r4EYIY<B2C2B2>D{(ce'g')}r6EYDYDYDrD(ce'g')3(cfa')3(ce'g')2r(ce'g')12
+//Luting length: 389
