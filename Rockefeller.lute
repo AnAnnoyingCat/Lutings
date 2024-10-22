@@ -1,0 +1,23 @@
+//#lute 640 il
+
+//|imv8Z{t2r64  r16  g'4g'g'g'eg'g8  r6dd  b'4b'b'b'agg'8  r10  g'4g'g'g'eg'g4  d8r2dd  b'4b'b'b'agg'8  r10  g'g'g'g'g'eg'g'4  g8r2dd  b'b'b'b'b'agg'8  r10  g'g'g'g'g'eg'g'4  g8r6  
+//>r2dddde'dd'  <g'4>d8r4  r4ddde'dd'  <g4>d8r4  r4ddde'dd'  <g'4>d8r4  r2dddde'dd'  <g4>d8r4  r4dddcd4}  v  
+//Y{<A{(gb'e')4(gb'e')4(gb'e')2(gb'e')2(gb'e')4  (fb'd)(fb'd)(fb'd)(fb'd)(fb'd)(fb'd)(fb'd)4  (fac)(fac)(fac)(fac)(fac)3(gb'e')3(fd)}  b'3g5r8  A  (gb')8}
+//|imv8Z  v  Y
+//|ivv5s3Z  v7  Y
+//Begleitung
+//|iiv6Z{t2o2  A{da>d<a>g'<a>d<a  da>d<a>g'<a>d<a  g>dgdb'dgd<  g>dgdb'dgd<}5  t8 v4 A{(dd)(>dd)}2  B{(gg)(>gg)}2  A2  B2
+//v5t4B{A{(>e'e')}4  A{(b'b')}4  A{(>dd)}4}  C{(gg)}4  B  (gg)8
+//}
+//|ibv5Z
+
+//clap
+//|idt4<r32  v0rara~v2  rara~v4  A{v2av4av2av4a}16  A8 chorus o0vA{B{(abc)(abc>a)}2}7(abc)
+
+// epic ass buildup
+//|idr320o2v6  A{B{(ac)}4C{(ac)2}2  B4C2}8
+
+
+//Thoroughly optimized Luting: 
+#lute 640 il|imv8X{t2r64r16I{g'4}D{V{g'}3eV}g8r6ddb'4F{U{b'}3agg'8r10}IDg4d8K{r2d}db'4A{FV2DIg8}KdU2Ar6>KC{ddde'dd'<}IG{>d8r4}r4L{Cg4Gr4}CIGKLdddcd4}v<Z{E{(gb'e')4}2J{(gb'e')2}2EB{(fb'd)}6(fb'd)4H{(fac)}4(fac)3(gb'e')3(fd)}W{b'3g5r8Z(gb')8}|imv8Xv<ZW|ivv5s3Xv7<ZW|iiv6Y{t2o2A{H{dJ{a>d<a}>V<J}2I{g>dgdUdgd<}2}5t8v4C{(dd)D{(>dd)}(dd)DF{(gg)}K{(>gg)}FK}2v5t4B{E{(>e'e')}4G{(b'b')}4D4}F4B(gg)8}|ibv5Y|idt4<r32v0rara~v2rara~v4A{C{v2av4a}3}16o0vB{D{(abc)}(abc>a)}14D|idr320o2v6A{B{(ac)}4C{(ac)2}2}16
+//Luting length: 493
