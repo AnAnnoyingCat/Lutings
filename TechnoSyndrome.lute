@@ -1,0 +1,36 @@
+// #lute 548 il
+
+//Main Du Du Du
+// |ics4Z{r16  A{<arar>cr<ar>dr<ar>erdr  crcrercrgrcrercr<  grgrbrgr>cr<gr>drcr  <frfrarfr>cr<fr>cr<br>}2  }
+// |iks6Z
+
+//Background dudu
+// |ibv4Z{o2r80A{s2aaaas8aaggs2aaaas8aagg}3  r16  A{s2ar2ar2grs8aaarargr  s2ar2ar2grs8aaarargr  s2ar2ar2grs8aaarargr  s2ar2ar2gr>s8cccrdrdr<}4}
+// |icv2Z
+// |ikv2Z
+
+//Sting ahh main thing
+// |ibs7Z{<r144  A{ar2ar2ar2ar2gr>cr<  ar2ar2ar2ar2grer  ar2ar2ar2ar2gr>cr<  ar2ar2araaraar3}2
+			//   A{a>er<a>cr<ab'ra>cr<ab'gr  a>er<a>cr<ab'ra>cr<ab'gr  a>er<a>cr<ab'ra>cr<ab'gr  a>er<a>cr<ggrgarar3}2}
+// |ifs6Z
+// |icZ
+// |ivv6s3Z
+// |ijv7s4Z
+
+//Percussion
+//Upper Sn. Dr.
+// |idZ{o0r208  A{r2b2b4b3b3bb}3 r16 A8}
+// |idZ
+// |idZ
+//hi-hattering
+// |idv7r208  A{B{s2cs8cs2a2}4}3  r16  A8
+//kick-bass
+// |idZ{o0t4r208  A{(ac)(ac)(ac)(ac)}3 r16  A8}
+// |idZ
+
+//SFX
+// |ido5r8d16r8  o3t16/5v8dv6dv5dv4dv3dvo5t1  r32 d16 o3t16/5v8dv6dv5dv4dv3dvo5t1  r16<  B{v0A{a/2}16~v1A8~v2A8~v5}>d16<  r32  B  r48 B  r48 B  r48 B 
+
+//Quickly optimized lutiing: 
+#lute 548 il|ics4Z{V{r16}A{<U{ar}2X{>T{cr}<}U>R{dr}<U>Q{er}RT2QTW{gr}TQT<W2brWXW>RT<frfrUfrXfrXbr>}2}|iks6Z|ibv4Z{o2r80A{D{P{s2}O{aa}2s8Ogg}2}3VA{PY{ar2ar2}C{Ws8OU2WPY}3W>s8ccTR2<}4}|icv2Z|ikv2Z|ibs7Z{<r144A{Y2WXY2WQY2WXYUaUOr3}2A{C{D{a>Q<aX}ab'raXab'W}3DgWgUar3}2}|ifs6Z|icZ|ivv6s3Z|ijv7s4Z|idZ{o0S{r208}A{r2b2b4b3b3bb}3VA8}|idZ|idZ|idv7SA{B{Pcs8cPa2}4}3VA8|idZ{o0t4SA{C{(ac)}4}3VA8}|idZ|ido5r8E{d16}r8C{o3t16/5v8dv6dv5dv4dv3dvo5t1}r32ECV<B{v0A{a/2}16~v1A8~v2A8~v5}>E<r32D{Br48}3B
+//Luting length: 481
