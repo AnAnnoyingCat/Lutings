@@ -1,2 +1,70 @@
-#lute 744
+#lute 744 il
 
+//Main
+|ilZ{t2>g4fe'd<b'g4  >cde'fdr6  t4(e'gc)8(ce'g)8  <(ge')(fd)(e'c)8  (a'c)(b'd)>(ce')<(a'c)  b'>c<g8> //// (e'gc)8(ce'g)8  <(ge')(fd)(e'c)(a'c)2(b'd)2  >(ce')(df)d2c2<b'  >c<g>c8
+(>cc)8(gg)8  (e'e')(dd)(cc)8  (cc)(dd)(e'e')(cc)  (<b'b')(cc)(<gg)8  ////  (>cc)8(gg)8  (e'e')(ff)(gg)(cc)  (dd)(ff)(dd)(<b'b')  (cc)8r8}  r64  
+Y{t2a'6gf4e'f  g4c4g8  ff1f1fe'd4e'f  e'4f4g4c4t4}  r64  V{t2  a'6gf4a'b'>c4<g4e'4c4  dd1d1dfd<b'gb'>c8}
+|ibZ  X{o4ffa'>c  e'dc<g  ffa'>ce'fg8}  Y  W{<ffa'>c  e'dc<g  ffa'>ce'fg8}  V
+|ibt4r288 X  r64  W
+
+//Düdelü
+|ikZ{v6r528r12  b'4  >e'2e'e'e'2f2g2ggf2e'2  d2ddd2e'2d4r2e'd  c2ccc2d2e'2e'e'd2c2  <b'2b'b'b'2>c2d4r2d<b'
+a'2a'a'a'2b'2>c2cc<b'2a'2  g2gg>e'2f2e'4<b'4  >e'2e'e'e'2f2g'2g'g'a'2g'2  f2fff2g'2f6gf} vY{e'2e'e'e'2f2g2ggf2e'2  d2ddd2e'2d4r2e'd  c2ccc2d2e'2e'e'd2c2  <b'2b'b'b'2>c2d4r2d<b'
+a'2a'a'a'2b'2>c2ccd2d2  g2ggg2b'2g2g2f2e'2  d2f2g2d2f2g2d2f2  d2f2g2>c2<b4g4  g4f2e'2d2<b'2g4  >c2d2e'2f2d8
+}
+|ibZvY
+|ilr672v8Y
+
+//Bass
+|ibZ{t2o2  f>f<f>f<g>g<g>g<  a'>a'<a'>a'<(gg)r(gg)(gg) //// >cr<gr>cr<gr  >cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr //// >cr<gr>cr<gr  >cr<gr>cr<gr>  frcrgrdr  cr<gr>cr<gr
+>cr<gr>cr<gr  >cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr  ////  >cr<gr>cr<gr>  frcrgrdr  grdrgrdr  cr<gr>c8}
+v6	frcrfrcr  cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr>  
+v4	a'rfra'rfr>  e'rcre'rcr  dr<b'r>dr<b'r>  e'rcre'rcr<
+v6	frcrfrcr  cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr> 
+v4>	a'rfra'rfr  e'rcre'rcr  dr<b'r>dr<b'r>  e'rcre'8<
+v4	(e'e')14(e'e')  <(b'b')14(b'b')  (a'a')14(a'a')  (gg)14(gg)
+	(ff)14(ff)  (e'e')8(e'e')8  (a'a')8(bb)8  (b'b')4(b'b')4(b'b')8
+vY{>  >cr<gr>cr<gr  b'rfrb'rfr  a're'ra're'r  grdrgrdr
+frcrfrcr  e'r<b'r>e'r<b'r>  (gg)>dg<(gg)>dg<(gg)>d<  (gg)>dgd<g4(gg)4  <f>f<f>f<g>g<g>g  <a'>a'<a'>a'<(gg)4}
+|ibZ
+v6	frcrfrcr  cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr>  
+v4	a'rfra'rfr>  e'rcre'rcr  dr<b'r>dr<b'r>  e'rcre'rcr<
+v6	frcrfrcr  cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr> 
+v4>	a'rfra'rfr  e'rcre'rcr  dr<b'r>dr<b'r>  e'rcre'8<
+v4	(e'e')14(e'e')  <(b'b')14(b'b')  (a'a')14(a'a')  (gg)14(gg)
+	(ff)14(ff)  (e'e')8(e'e')8  (a'a')8(bb)8  (b'b')4(b'b')4(b'b')8
+vY
+|icv5Z
+v3	frcrfrcr  cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr>  
+v2	a'rfra'rfr>  e'rcre'rcr  dr<b'r>dr<b'r>  e'rcre'rcr<
+v3	frcrfrcr  cr<gr>cr<gr>  frcrfrcr  cr<gr>cr<gr> 
+v2>	a'rfra'rfr  e'rcre'rcr  dr<b'r>dr<b'r>  e'rcre'8<
+v2	(e'e')14(e'e')  <(b'b')14(b'b')  (a'a')14(a'a')  (gg)14(gg)
+	(ff)14(ff)  (e'e')8(e'e')8  (a'a')8(bb)8  (b'b')4(b'b')4(b'b')8
+v5Y
+
+//Lower Upper woop woop 
+|ist2o3r32 	r(e'g)r(e'g)r(e'g)r(e'g)  r(e'g)r(e'g)r(e'g)r(e'g)  r(a'c)r(a'c)r(a'c)r(a'c)  r(e'g)r(e'g)r(e'g)r(e'g)  
+			r(e'g)r(e'g)r(e'g)r(e'g)  r(e'g)r(e'g)r(e'g)r(e'g)  r(a'c)r(a'c)r(b'd)r(b'd)  r(e'g)r(e'g)r(e'g)r(e'g)
+			r(e'g)r(e'g)r(e'g)r(e'g)  r(e'g)r(e'g)r(e'g)r(e'g)  r(a'c)r(a'c)r(a'c)r(a'c)  r(e'g)r(e'g)r(e'g)r(e'g)
+			r(e'g)r(e'g)r(e'g)r(e'g)  r(a'c)r(a'c)r(a'c)r(a'c)  r(b'd)r(b'd)r(b'd)r(b'd)  r(ce')r(ce')r8
+		v6	r(a'c)r(a'c)r(a'c)r(a'c)  r(e'g)r(e'g)r(e'g)r(e'g)  r(a'c)r(a'c)r(a'c)r(a'c)  r(e'g)r(e'g)r(e'g)r(e'g)
+		v4>	rcrcrcrc  rgrgrgrg  rfrfrfrf  rgrgrgrg
+		v6<	r(a'c)r(a'c)r(a'c)r(a'c)  r(e'g)r(e'g)r(e'g)r(e'g)  r(a'c)r(a'c)r(a'c)r(a'c)  r(e'g)r(e'g)r(e'g)r(e'g)
+		v4>>rcrcrcrc< rgrgrgrg  rfrfrfrf  rgrgr8
+			r128
+		v	r(e'g)r(e'g)r(e'g)r(e'g)  r(df)r(df)r(df)r(df)  r(ce')r(ce')r(ce')r(ce')<  r(b'd)r(b'd)r(b'd)r(b'd)  
+			r(a'c)r(a'c)r(a'c)r(a'c)  r(gb')r(gb')r(gb')r(gb')
+
+//Percussion
+//High
+|idv3s8>d8d8  d4d4d4o0va4
+
+
+//Your Multilutes Sir: 
+//Multilute 1:
+#lute m 744 il|ilZ{t2>g4fM{e'}d<F{b'}g4>cdMfdr6t4A{(e'gc)8(ce'g)8<(ge')(fd)}(e'c)8J{(a'c)}(b'd)>P{(ce')}<JF>c<g8>A(e'c)(a'c)2(b'd)2>PI{(df)}H{d2}c2<F>c<g>c8B{(>cc)8(gg)8(e'e')}C{(dd)}(cc)8D{(cc)}C(e'e')D(<b'b')D(<gg)8B(ff)L{(gg)}DC(ff)C(<b'b')(cc)8r8}r64Y{E{t2a'6gf4}Mfg4c4g8ff1f1fMd4Mfe'4f4g4c4t4}r64V{Ea'F>c4<g4e'4c4dd1d1dfd<FgF>c8}|ibZX{o4A{B{ffa'>cM}dc<gBfg8}}YW{<A}V|ibt4r288Xr64W|ikZ{v6r528r12b'4>A{B{e'2}M2BC{f2}E{g2}ggCBHddHBd4r2Mdc2ccc2HBM2Hc2<D{b'2}F2D>c2d4r2d<Fa'2a'a'a'2D>c2cc}<Da'
+//Multilute 2:
+#lute m 2Egg>BCe'4<b'4>BM2BCg'2g'g'a'2g'2CffCg'2f6gf}vY{AH2EggEDE2CBHCEHCEHCHCE>c2<b4g4g4CBH<Dg4>c2HBCd8}|ibZvY|ilr672v8Y|ibZ{t2o2A{f>f<f>f<g>g<g>g<a'>a'<a'>a'<}LrL2>T{cr<K{gr}C{>cr<K}>}2fR{rcr}D{fR}T3DE{Kdr}T3D2T2DE2KdR<K>c8}U{v6O{D2T}2v4N{a'G{rfr}}2>Q{MRMRdB{r<Fr>}dBMR}MR<v6O2v4>N2Qe'8<v4S{(e'e')14(e'e')<(b'b')14(b'b')(a'a')14(a'a')(gg)14L(ff)14(ff)(e'e')8(e'e')8(a'a')8(bb)8(b'b')4(b'b')4(b'b')8}v}Y{>C2FGFGa'rMra'rMrE2D2MBMBL>dg<L>dg<L>d<L>dgd<g4(gg)4<A(gg)4}|ibZUY|icv5Zv3O2v2N2>QMR<v3O
+//Multilute 3:
+#lute 2v2>N2Qe'8<v2Sv5Y|ist2o3r32A{D{r(e'g)}4}2B{rJrJ}2A3BC{r(b'd)}2A3B2A2B2C4rPrPr8v6B2AB2Av4>RcRcrK4fGfGK3gv6<B2AB2Av4>>RcRc<rK4fGfGKgr8r128vArIrIrIrIrPrPrPrP<C4B2E{r(gb')}4|idv3s8>d8d8d4d4d4o0va4

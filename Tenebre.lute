@@ -1,0 +1,38 @@
+#lute 352 il
+
+//Organ High
+|ioZ{v8r64  A{>d'<a'>a'd'g'd'a'd'ed'a'd'e'd'<a'>c<}3  >d'<a'>a'<a'>e<a'>a'<a'>e'<a'>d'<a'>c<a'>c<a'  v
+A2  B{>d'<a>a<a>g'<a>a<a>e<a>a<a>d'<aa'>e<}2  A2  B{a'a'>a'<a'>e<a'>a'<a'>e'<a'>a'<a'>c2<a'>e'<}2}
+
+|ibZ
+
+//Electric guitar
+|ijs7o2v4r128  A{(d'a'd')2}16  B{(aea)2}16  C{(g'd'g')2}16  D{(a'e'a')2}16
+
+//Organ Low
+|ios2o2v1(d'a'd')64  	~v4(d'a'd')48  r16v5  (d'a'd')32  (aea)32  (g'd'g')32  (a'e'a')32
+|ics2o2r64v3  (d'a'd')48  r16v4  (d'a'd')32  (aea)32  (g'd'g')32  (a'e'a')32
+
+//Piano
+|ikZ{<v1A{>d'<a'>a'd'g'd'a'd'ed'a'd'e'd'<a'>c<}4~v}
+|ibZ
+
+//Bass Drum
+|idZ{o0r64aar14  r32  r13 ao3co0a  A{B{a/2}12C{a}10}8}
+|idZ
+|idZ
+
+//Snare Drum
+|idZ{o3r128  A{r4c8c4}3  r4c8c3/2c/2c/2cc/2  A3  r4c8c3/2c/2c/2cc/2}
+|idZ
+|idZ
+
+//Hi Hat
+|idv4t2r128  A{cccccccc}2B{rccccccc}D{cccccccr}  BDBD
+
+//Cymbal crash
+|idt2o5r128  r32  d16  r16  d16  r16  d16
+
+//Thoroughly optimized Luting: 
+#lute 352 il|iov8R{r64}Y{>F{d'}A{<D{a'}>}DFg'FDFeFDFe'FAc<}3X{>FAG{DAeADAe'A}FAcAc<DvY2B{>FE{<a>a<a>}g'EeEF<aD>e<}2Y2C{D2>GDAc2Ae'<}2}|ibv8RY3X|ijs7o2v4T{r128}A{(d'a'd')2}16D{E{(aea)2}2}8B{(g'd'g')2}16C{(a'e'a')2}16|ios2o2v1(d'a'd')64~v4S{(d'a'd')48r16}v5U{(d'a'd')32(aea)32(g'd'g')32(a'e'a')32}|ics2o2Rv3Sv4U|ikQ{<v1Y4~v}|ibQ|idV{o0RB{aa}r14r32r13ao3co0}Z{aA{a/2a/2}6B4a}8a|idVZ8a|idVZ8a|idP{o3T}W{A{r4c8c4}3r4c8c3/2B{c/2}2cB}2|idPW2|idPW2|idv4t2TA{ccccccc}2ccB{rA2r}3|idt2o5Tr32A{d16r16}2d16
+//Luting length: 493
