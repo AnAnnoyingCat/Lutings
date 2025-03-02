@@ -1,0 +1,59 @@
+#lute 460 il
+
+//Piano 1 Upper (VIOLIN)
+|ikZ{>f2cr<a'rfr2bb'rb'a'e'e  r>c<b'a'b'>c<e'fa'fe'>f2e'c/2<b'/2a'  f2r2g2r2a'2r2b'2r2  >c2<b'2>f2c2e2d'2c4  
+f>c<b'>c<f>c<b'>c<d'bb'be'>c<gb'  f>c<b'>c<g>c<b'>c<a'>c<b'>c<b'>d'cd'<  d'a'ga'd'b'a'b'd'>c<b'>c<d'>d'cd'  c2<b'2>f2c2e2d'2cd'cd'  
+//Chorus//
+c2<a'2frcra'2fg4r  a'2fg4ra'2fg2>d'cd'  c2<a'2frcra'2b'g4r  a'2b'g4ra'2b'>c2d'cd'  c2<a'2frcra'2fg4r  a'2fg4ra'2fg2>d'cd'  c2f2<b'ra'rb'a'rb'3a'b'  bb'a'rercrd'rerf4
+//25//
+>c2<a'2frcra'2frd'r<a'r>  d'ra'rgrfrerfrgrer  fcfga'fa'b'>c<b'a'ga'gfg  fr>e'rd'rcr<b'>c<a'b'>c4  
+c2<a'2frcra'2fg4r  a'2fg4ra'2fg2>d'cd'  c2f2<b'ra'rb'a'rb'3a'b'  bb'a'rercrd'rerf4
+}
+|iiZ
+|ibZ
+|ivZ
+
+//Piano 1 Lower (BASS)
+|ikZ{s6  r48  o3r13cde  f2cr<a'rfr2bb'rb'a'e'e  r>c<b'a'b'>c<e'fa'fe'>fre'c/2<b'/2a'  >d'2r2e'2r2f2r2g2r2  r16  r64  o5a'2f2cr<a'r>f2cd'4r  f2cd'4rf2ce2r3  r96
+a'2f2cr<a'r>f2cd'4r  f2cd'4rf2ce2r3}
+|ikZ
+|ibZ
+|iiZ
+
+//Piano 2 (BASS)
+|ibZ{s4o2ff>c<fffe'e'd'fa'fcege  ffffgggga'a'a'a'e'e'e'e'  d'd'b'd'd'd'b'd'd'd'fd'd'd'a'd'  c4r2c2c8  ff>cc<ffee'd'd'ffcce'e  ffe'e'gge'e'a'a'e'e'b'b'e'e'  ffd'rggd'ra'a'd'rb'b'd'r  r16
+//Chorus//
+B{A{f>cd'c<f>cfc<b'>fa'f<b'>fgf  d'fa'fd'fgfcfa'fcege<}3  f>cd'c<f>cfc<g'>cd'c<g'>cd'c  d'fa'fceged'a'cgfr3<}2
+}
+|ibZ
+|icv8Z
+
+//Piano 3 Upper 
+|ikZ{s3c2a'rfrcr2a'frge<b'>d'  ra'fe'ga'<ga'>c<a'g>a'r4  r16  t2a'd'>c<fb'a'g4t1  c2<a'rfrcr2a'frge<b'>d'  ra'fe'ga'<ga'>c<a'g>a'r4  r16  o5t2a'd'>c<fb'a't1gd'cd'  
+c2<a'2frcra'2fg4r  a'2fg4ra'2fg2>d'cd'  c2<a'2frcra'2b'g4r  a'2b'g4ra'2b'>c2d'cd'  c2<a'2frcra'2fg4r  a'2fg4ra'2fg2>d'cd'  c2f2<b'ra'rb'a'rb'3a'b'  bb'a'rercrd'rerf4
+r80  r13>d'cd'  c2f2<b'ra'rb'a'rb'3a'b'  bb'a'rercrd'rerf4
+}
+|ibZ
+|ibZ
+
+//Piano 3 Lower
+|ibZ{s8o3t2r112  c<f>f<f>ed'c4<  A{<frfrb'rb'r  >d'rd'rcrcr}3  frfrg'rg'r  >d'rcrd'ef4  <frfrb'rb't1>cr  d'2>d'<a'd'ef2e2d'<g>c2e2  f2r2<f2r2b'r2>a'/2a/2b'a'gf  d'2r2d'd'a'rc2<a'b'>c2<e2
+t2frfrb'rb'r  >d'rd'rcrcr  <frfrg'rg'r  >d'rcrd'ef4}
+|iqZ
+|iqZ
+|iqZ
+
+//Percussion
+//Tambourine
+|idv5>A{B{e}16}3  r16  A3  r16  A8  A7
+//Hi-Hat
+|idv4t2A{cacacaca1a1}3  r16  A3  r16  A8  A7
+//Bass-Drum
+|idZ{r128o1t2  A{c>a<c>a<c>a1<cc1>a<  c>a1<cc1>a<c>a1<cc1>a<}4  A3  c>a<c>a<c>a1<cc1>a<}
+|idZ
+|idZ
+//Your Multilutes Sir: 
+//Multilute 1:
+#lute m 460 il|ikZ{>Q{f2}I{cr}<V{a'}rfR{r2}bU{b'}rK{UV}S{e'}erT{>c<}KUTSO{fVf}S>QH{Sc/2<b'/2V}QRg2Ra'2Rb'2R>E{J{c2}<b'2>QJe2d'2}c4fG{TUT}fGW{d'}bUbSTgUfGgGVGU>N{WcW}<WVgVWKUWGW>NEcY{NC{D{J<a'2P{fr}Ia'2}fF{g4ra'2}fFfg2}>NDUFUFU>JNCX{>NJQ<UrVrKrb'3VUbKrerIL{Wr}erf4}}>DPL<Vr>LVrgrPerPgrerfcfgVfVUTKgVgfgP>SrLI<UTVU>c4CX}|iiZ|ibZ|ivZ|ikZ{s6r48o3r13cdeE{QI<Vr}fRbUrKSerTKUTSOS>PH>d'2Re'2RQRg2RM{r16}r64o5C{a'2E>D{Qcd'4r}2Qce2r3}r96C}|ikZ|ibZ|iiZ|ibZ{s4o2D{ff}TDfS2WE{Ocege}D2ggggV4S4W2UW3UW3fW3VWc
+//Multilute 2:
+#lute 4RJc8D>cc<DeSW2DccSeDS2ggS2V2S2U2S2DLggLV2LU2LMB{A{C{f>cWc<f>cfc<}U>O<U>fgfWOWfgfcE<}3Cg'>cWc<g'>cNEWVcgfr3<}2}|ibZ|icv8Z|ikZ{s3JC{VrPcRVPge<U>LVfSgV<gVTVg>Vr4M}D{t2VWTfK}g4t1J<Co5Dt1gYr80r13X}|ibZ|ibZ|ibZ{s8o3t2r112c<f>f<f>eWc4<A{<D{P2UrUr>L2I2}}3C{P2g'rg'r>LIWef4}<P2UrUt1>Id'2>W<VWeQe2W<g>Je2QR<QRUR>a'/2a/2Kgfd'2RW2VrJ<VU>J<e2t2D<C}|iqZ|iqZ|iqZ|idv5>A{B{e}16}3MA3MA8A7|idv4t2A{cacacaca1a1}3MA3MA8A7|idZ{r128o1t2A{cD{>a<}cC{Dc>a1<cc1}3D}4A3cDcCD}|idZ|idZ

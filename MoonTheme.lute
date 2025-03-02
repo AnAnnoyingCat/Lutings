@@ -1,0 +1,54 @@
+#lute 720 il
+
+//Trumpet 1
+|ibZ{t2r120  r32  r32  r8b'b>d'd'6  g'4f'4g'4  a'4b'g'18  r4f'g'  >d'6<g'g'16  r2g'g'g'12  a'g'f'14  r4  <b'10a'g'>d'10  (d'g')4(ea')4  (a'b)6(g'b')(g'b')14  r2(b'd')4(a'b)4  
+(g'b')(a'b)(g'b')(d'g')r<(b'd')8>  (ea')(e'g')(d'e)<(be')>(d'e)6  g'4rg'4rg'16}
+|iiZ
+|icv5Z
+|ivv7Z
+//Trumpet 2
+
+//Main Chiptune (Fl)
+|iis3v4t4>A{g'>g'd'a'd'b'b'g'd'a'g'bbd'a'<}2B{g'>g'd'a'bbd'a'<}<  B4  B4  Z{t2>g'dg'a'ea'bb'  g'd'<bb'}
+|iis3v4t4>r2A{>d'a'g'bbd'a'<g'>g'd'a'd'b'b'g'<}2B{>d'a'g'd'd'b'b'g'<}<  B4  B4  
+|ics3v4t2>A{g'>d'g'a'd'g'a'bd'bb'd'b'a'g'<}4B{g'>d'g'a'd'g'a'd'bd'bb'd'b'a'g'<}<  B4  B4  Z
+
+//El. Guitar 1
+|ivv8<Z{s6t4r26g'  >d'18g'a'b  b6b'2b'14a'g'  >d'12<g'12>g'32  a'4g'2  }v>d'32
+|ibv3Z v7>d'32
+//Bass Guitar
+|ibv6Z{o2r30 g'6>d'6g'18<  e6b6>e18<  e'6b'6>e'18<  d6a6>d20 v4 t2A{g'}24  A{f'}8  A{e'}8  A{d'}8  <A{b}8>  A{c}8
+d'd'd'd'd'd'd'a'>  d'd'd'd'd'<a'd'a'  g'g'g'g'g'g'g'g'  eeeeeeee  e'e'e'e'e'e'e'e'  dddddddd  d'd'd'd'd'd'd'd'  cccccccc  dddeeeg'g'  g'g'g'g'g'g'g'g'
+}
+
+
+//Violin 1
+|ibv2Z{s8r30  d'30  e30  b'30  b'32 //// d'32  g'16  d'8f'8  e'16  g'8b'8  g'16  e'8a'8  g'16  f'16  d'16  <b16>  e'16  d16  d'16  c8d'8  t2g'd<a>a'e<b>b'8}
+|iov2Z
+|ikv6Z
+
+//Percussion
+//Cymbal-Crash
+|ido5  r30  d30  r60   r32  d30  r128 d16  r80  d8d4r2d16
+
+//Hi-Hat
+|idv2o4  r120  r32  t2rccccccc  A{cccccccc}8  cccccr6  rccccccc  A4  cccccr6  r16 rccc
+
+//Snare Drum
+|idZ{o3t2r18v4cccccc~v  r90  r16  v4cccccccc~v  A{r4c4r4c4}9  r4c4r2c2c2c2  A5  r4c4r2c1c1c1c1c1c1  c6c2r4c8c4}
+|idZ
+
+//Floor Tom
+|ido1t2r18v1cccccc~v6  r90  r16  v1cccccccc~v6
+
+//Bass Drum
+|idZ{o0t2r18v5aaaaaa~v  a4r26  r60  r16  v5aaaaaaaa~v  A{a4r4a2a2r4}9  a4r4a4r2a2  A5  af4r4a2a2a2a1a1  a2a2a2a2r2a2a4  a4}
+|idZ
+|idZ
+//Your Multilutes Sir: 
+//Multilute 1:
+#lute m 720 il|ibZ{H{t2}F{r120r32}r32r8N{b'}b>S{d'}d'6B{g'4}f'4Ba'4Ng'18J{r4}f'T{g'}>d'6<TL{g'16}G{r2}T2g'12P{a'}Tf'14J<b'10PE{T>}d'10(d'g')4(ea')4(a'b)6A{(g'b')}(g'b')14G(b'd')4(a'b)4A(a'b)A(d'g')r<(b'd')8>(ea')(e'g')(d'e)<(be')>(d'e)6BrBrL}|iiZ|icv5Z|ivv7Z|iiD{s3v4}t4>ETK{SP}A{SN2TKT}V{bbK<ETK}AVbbK<<ETKV7bbKM{<H>TdTPePbNTS<bN}|iiDt4>GB{>KTVSN2T}<BA{<>KTS2N2T}<A8<|icDH>B{ESTPSTP}A{C{bSbNSNPT}<B}4SC<<BSASASASASASASASCM|ivv8<R{s6t4r26Ed'18TPbb6b'2b'14PEd'12<g'12>g'32a'4g'2}v>d'32|ibv3Rv7>
+//Multilute 2:
+#lute m d'32|ibv6o2r30g'6>d'6g'18<e6b6>e18<e'6b'6>e'18<d6a6>d20v4HT24B{f'f'}4A{e'e'}4S8<bbbbbbbb>U{I{cc}3}IS7P>S5<PKT8C{ee}4A4ddddddddS8UIdddCeT10|ibv2X{s8r30d'30e30b'30b'32d'32Ld'8f'8e'16g'8b'8Le'8a'8Lf'16d'16<b16>e'16d16d'16c8d'8HTd<a>Pe<b>b'8}|iov2X|ikv6X|ido5r30d30r60r32d30r128d16r80d8d4Gd16|idv2o4FHrU12I2r6rU7Ir6r16rIc|idO{o3Hr18v4U~vr90r16v4UI~v}W{A{Jc4}2}9Q{AGc2c2c2W5AGB{c1c1}3c6c2Jc8c4}|idOW9Q|ido1Hr18v1U~v6r90r16v1UI~v6|idY{o0Hr18C{v5aaaaaa}~va4r26r60r16Caa~vA{a4JB{a2}2J}9a4Ja4GB
+//Multilute 3:
+#lute A5af4JB3a1a1B4GBa4a4}|idY|idY
