@@ -1,0 +1,15 @@
+#lute 520 il
+
+//El. Guitar 1
+|ijZ{r8v4r20e4v  e2eeg2ggaaaab'2b'2  e2det4/3gegt1agaab'bb'b  eeeeggggaaaab'b'>dde16}
+//El. Guitar 3
+|ij<Z
+//Perc.
+//Bass
+|ido0A{(ac)2(ac)2r(ac)3(ac)4r4}3  (ac)2(ac)2r(ac)3(ac)2(ac)(ac)r2(ac)2  (ac)(ac)(ac)(ac)r(ac)(ac)(ac)r(ac)(ac)r(ac)r(ac)(ac)
+//Snare
+|ido3A{r4cr7c2r2}4  r4cr3cr2crcr2c16  >>d16<
+
+//Thoroughly optimized Luting: 
+#lute 520 il|ijZ{r8v4r20e4ve2eeg2A{ggaaaa}b'2b'2e2det4/3gegt1agaab'bb'beeeeggAb'b'>dde16}|ij<Z|ido0A{D{(ac)2}2r(ac)3}C{(ac)4r4A}3DB{(ac)}2r2DB4rB3rB2rBrB2|ido3A{r4cr7c2r2}4r4cr3cr2crcr2c16>>d16<
+//Luting length: 194

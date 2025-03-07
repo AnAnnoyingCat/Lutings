@@ -1,0 +1,40 @@
+#lute 400 il
+
+//Main Voice
+|ibv7Z{r128  a2aaa2aaa3/2a/2aaa2aa  a2aaa2aaa3/2a/2aaa2aa  g2ggg2ggg3/2g/2ggg2gg  d2ddd2ddd3/2d/2eee2ee
+(ea)2(ea)(ea)(ea)2(ea)(ea)(ea)3/2(ea)/2(ea)(ea)(ea)2(ea)(ea)  (da)2(da)(da)(da)2(da)(da)(da)3/2(da)/2(da)(da)(ea)2(ea)(ea)
+(dg)2(dg)(dg)(dg)2(dg)(dg)(dg)3/2(dg)/2(ceg)(cea)(cea)2(cea)(cea)  (db)2(db)d(db)2(db)(db)(db)3/2(db)/2(ea')(ea')(ea')2(ea')(ea')}
+|iov4Z
+|iqZ
+
+//Side Voide
+|ibZ{s8r192  r2>c<ar2>c<ar2>c<ar2>c<a  r2>d<ar2>d<ar2>d<ar2>d<a  r2>d<ar2>d<ar2>c<ar2>c<a  r2>d<br2>d<br2>e<br2>fe}
+|ivv8Z
+|iqZ
+
+//Background noise
+|ibv3s4Z{r64a64}
+|iov1Z
+
+//Main Bass
+|ibZ{r64o2  A{a2>a<aa2gaa2aaa2aa  f2>f<ff2dff2fff2ff  g2>g<gg2dgg2ggg2gg  d2ddd2dde2eee2ee}2}
+|icv7Z
+
+//Spooky violin
+|ivv7Z{r128  r16  r8b8  >c10<a6  >e16}
+|ibv6Z
+
+//Percussion
+//Snare
+|id<Z{s3A{r4c4r4c4}3  r4c3c/2c/2ccr2crc/2c/2c/2c/2  A12}
+|id<Z
+//hi-hat closed (same as snare)
+|idv3Z
+//Tambourine
+|id>v5A{s7r2err2err2err2er}16
+|id>v5A{s5r2rer2rer2rer2re}16
+//Bass Drum
+|idZ{o0t4A{(ac)(ac)(ac)(ac)}16}
+|idZ
+//VFX
+|idr48C{v0A{a/2}16~v1A8~v2A8~v5  >d16<}  r144  r8<v2A{c}8~v3  A8~v5A4~v6t/4A16~v7  >>d16<
