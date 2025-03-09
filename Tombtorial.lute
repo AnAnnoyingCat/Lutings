@@ -38,3 +38,9 @@
 |idZ
 //VFX
 |idr48C{v0A{a/2}16~v1A8~v2A8~v5  >d16<}  r144  r8<v2A{c}8~v3  A8~v5A4~v6t/4A16~v7  >>d16<
+
+//Your Multilutes Sir: 
+//Multilute 1:
+#lute m 400 il|ibv7Z{r128T{a2aa}2a3/2P{a/2}aaT3a3/2PaaTH{g2gg}2g3/2g/2R{ggHd2ddd2dd}d3/2d/2eeO{e2ee}A{(ea)2E{(ea)}2}2(ea)3/2(ea)/2E2AI{(da)2}B{(da)}2IB2(da)3/2(da)/2B2AC{(dg)2(dg)(dg)}2(dg)3/2(dg)/2(ceg)F{(cea)}(cea)2F2G{(db)2(db)}dG(db)(db)3/2(db)/2D{(ea')}2(ea')2D2}|iov4Z|iqZ|ibV{s8r192Q{r2}>cA{<aQ>}cAcAcB{Ad}6AcAcBC{<bQ>}dCeCfe}|ivv8V|iqV|ibv3s4N{r64}a64|iov1Na64|ibNo2W{a2>a<aa2gaT2f2>f<A{ff2}dAfAffg2>g<gg2dgg2RO2}2|icv7No2W2|ivv7S{r128r16r8b8>c10<a6>e16}|ibv6S|id<s3X{A{r4c4}6}U{r4c3B{
+//Multilute 2:
+#lute c/2}2ccQcrB4X4}|id<s3XU|idv3s3XU|id>v5A{s7B{Qer}4}16|id>v5A{s5B{Qre}4}16|ido0t4Y{A{(ac)}4}16|ido0t4Y16|idr48v0A{P4}4~v1A2~v2A2~v5C{>d16<}r144r8<v2B{cccc}2~v3B2~v5B~v6t/4B4~v7>C
